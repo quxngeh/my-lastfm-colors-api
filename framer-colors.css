@@ -1,0 +1,19 @@
+/* Auto-generated colors from "ETA" by NewJeans */
+/* Generated on: 8/4/2025, 5:53:45 AM */
+
+:root {
+  --color-primary: #a6c2d1;
+  --color-secondary: #1f5666;
+  --color-accent: #8a455a;
+  --color-muted: #bb9057;
+}
+
+/* Optional: Pre-defined color classes */
+.color-primary { color: var(--color-primary); }
+.bg-primary { background-color: var(--color-primary); }
+.color-secondary { color: var(--color-secondary); }
+.bg-secondary { background-color: var(--color-secondary); }
+.color-accent { color: var(--color-accent); }
+.bg-accent { background-color: var(--color-accent); }
+.color-muted { color: var(--color-muted); }
+.bg-muted { background-color: var(--color-muted); }
