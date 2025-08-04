@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "ETA" by NewJeans
-// Generated: 8/4/2025, 5:53:45 AM
+// Song: "Dopamine (GISELLE SOLO)" by aespa
+// Generated: 8/4/2025, 9:04:25 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#a6c2d1",
-  "secondary": "#1f5666",
-  "accent": "#8a455a",
-  "muted": "#bb9057"
+  "primary": "#232227",
+  "secondary": "#caccd3",
+  "accent": "#889dbb",
+  "muted": "#6a7ca5"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#a6c2d1');
-    root.style.setProperty('--color-secondary', '#1f5666');
-    root.style.setProperty('--color-accent', '#8a455a');
-    root.style.setProperty('--color-muted', '#bb9057');
+        root.style.setProperty('--color-primary', '#232227');
+    root.style.setProperty('--color-secondary', '#caccd3');
+    root.style.setProperty('--color-accent', '#889dbb');
+    root.style.setProperty('--color-muted', '#6a7ca5');
 }
 
 // Auto-apply colors when this script loads
