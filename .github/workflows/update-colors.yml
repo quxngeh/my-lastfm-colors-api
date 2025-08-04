@@ -33,15 +33,35 @@ jobs:
       env:
         LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
         LASTFM_USERNAME: ${{ secrets.LASTFM_USERNAME }}
-      run: npm run auto-update
+      run: |
+        echo "🎵 Running color generation..."
+        npm run auto-update
+        echo "📁 Files after generation:"
+        ls -la *.css *.js *.md || echo "No matching files found"
       
     - name: 📤 Commit and push new colors
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "Color Bot"
-        git add framer-colors.css framer-colors.js LATEST-COLORS.md
-        git diff --staged --quiet || git commit -m "🎨 Auto-update colors from $(date '+%Y-%m-%d %H:%M')"
-        git push
+        
+        # Check if files were generated
+        if [ -f "framer-colors.css" ] && [ -f "framer-colors.js" ] && [ -f "LATEST-COLORS.md" ]; then
+          echo "✅ Generated files found, committing..."
+          git add framer-colors.css framer-colors.js LATEST-COLORS.md
+          
+          # Only commit if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "🎨 Auto-update colors from $(date '+%Y-%m-%d %H:%M')"
+            git push
+            echo "✅ Colors updated and pushed!"
+          else
+            echo "ℹ️ No changes to commit"
+          fi
+        else
+          echo "❌ Generated files not found!"
+          ls -la
+          exit 1
+        fi
         
     - name: 🚀 Deploy to Vercel
       env:
