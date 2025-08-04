@@ -1,0 +1,63 @@
+name: 🎵 Auto-Update Framer Colors
+
+on:
+  # Run every day at 9 AM UTC (adjust timezone as needed)
+  schedule:
+    - cron: '0 9 * * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+
+  # Run on push to main branch for testing
+  push:
+    branches: [ main, master ]
+
+jobs:
+  update-colors:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 🔄 Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: 📦 Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: 📥 Install dependencies
+      run: npm ci
+      
+    - name: 🎨 Generate new colors
+      env:
+        LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+        LASTFM_USERNAME: ${{ secrets.LASTFM_USERNAME }}
+      run: npm run auto-update
+      
+    - name: 📤 Commit and push new colors
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Color Bot"
+        git add framer-colors.css framer-colors.js LATEST-COLORS.md
+        git diff --staged --quiet || git commit -m "🎨 Auto-update colors from $(date '+%Y-%m-%d %H:%M')"
+        git push
+        
+    - name: 🚀 Deploy to Vercel
+      env:
+        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+        VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+      run: |
+        npx vercel --token $VERCEL_TOKEN --prod --yes
+        
+    - name: 📧 Notify via webhook (optional)
+      if: success()
+      env:
+        WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+      run: |
+        if [ ! -z "$WEBHOOK_URL" ]; then
+          curl -X POST "$WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d '{"text": "🎨 Framer colors updated with new palette from Last.fm!"}'
+        fi

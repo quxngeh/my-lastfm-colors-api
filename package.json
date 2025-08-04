@@ -1,0 +1,23 @@
+{
+  "name": "my-lastfm-colors-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test-local.js",
+    "dev": "node test-local.js",
+    "framer": "node apply-to-framer.js",
+    "server": "node server.js",
+    "preview": "node server.js",
+    "auto-update": "node framer-auto-update.js",
+    "update-colors": "node framer-auto-update.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colorthief": "^2.6.0",
+    "dotenv": "^16.6.1",
+    "node-fetch": "^2.7.0"
+  }
+}
