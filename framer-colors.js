@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Drama" by aespa
-// Generated: 8/8/2025, 9:03:53 AM
+// Song: "WOULD YOU RUN" by TRI.BE
+// Generated: 8/9/2025, 9:00:53 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e30414",
-  "secondary": "#202c32",
-  "accent": "#bec6cd",
-  "muted": "#b87884"
+  "primary": "#d4d5e5",
+  "secondary": "#3f5f75",
+  "accent": "#b77552",
+  "muted": "#757598"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e30414');
-    root.style.setProperty('--color-secondary', '#202c32');
-    root.style.setProperty('--color-accent', '#bec6cd');
-    root.style.setProperty('--color-muted', '#b87884');
+        root.style.setProperty('--color-primary', '#d4d5e5');
+    root.style.setProperty('--color-secondary', '#3f5f75');
+    root.style.setProperty('--color-accent', '#b77552');
+    root.style.setProperty('--color-muted', '#757598');
 }
 
 // Auto-apply colors when this script loads
