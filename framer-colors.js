@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "CAKE" by ITZY
-// Generated: 8/13/2025, 9:02:27 AM
+// Song: "ExtraL" by JENNIE & Doechii
+// Generated: 8/14/2025, 9:02:15 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#d0bacb",
-  "secondary": "#1b1527",
-  "accent": "#d13648",
-  "muted": "#96525e"
+  "primary": "#090e0d",
+  "secondary": "#c04338",
+  "accent": "#786c60",
+  "muted": "#715e5c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#d0bacb');
-    root.style.setProperty('--color-secondary', '#1b1527');
-    root.style.setProperty('--color-accent', '#d13648');
-    root.style.setProperty('--color-muted', '#96525e');
+        root.style.setProperty('--color-primary', '#090e0d');
+    root.style.setProperty('--color-secondary', '#c04338');
+    root.style.setProperty('--color-accent', '#786c60');
+    root.style.setProperty('--color-muted', '#715e5c');
 }
 
 // Auto-apply colors when this script loads
