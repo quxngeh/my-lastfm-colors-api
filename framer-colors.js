@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "ETA" by NewJeans
-// Generated: 8/15/2025, 9:01:06 AM
+// Song: "Kiss Your Lips" by WJSN THE BLACK
+// Generated: 8/16/2025, 9:00:50 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#a8c7d5",
-  "secondary": "#1e222a",
-  "accent": "#8b4561",
-  "muted": "#a38857"
+  "primary": "#060607",
+  "secondary": "#dadada",
+  "accent": "#7c7c7c",
+  "muted": "#747474"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#a8c7d5');
-    root.style.setProperty('--color-secondary', '#1e222a');
-    root.style.setProperty('--color-accent', '#8b4561');
-    root.style.setProperty('--color-muted', '#a38857');
+        root.style.setProperty('--color-primary', '#060607');
+    root.style.setProperty('--color-secondary', '#dadada');
+    root.style.setProperty('--color-accent', '#7c7c7c');
+    root.style.setProperty('--color-muted', '#747474');
 }
 
 // Auto-apply colors when this script loads
