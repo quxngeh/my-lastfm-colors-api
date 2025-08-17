@@ -1,6 +1,6 @@
 // Auto-generated Framer color updater
 // Song: "Kiss Your Lips" by WJSN THE BLACK
-// Generated: 8/16/2025, 9:00:50 AM
+// Generated: 8/17/2025, 9:00:56 AM
 
 // For use in Framer code components or override functions
 export const colors = {
