@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "Kiss Your Lips" by WJSN THE BLACK  
-**Generated**: 8/17/2025, 9:00:56 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/271a1d08db383b95840912c5af067baa.jpg)
+**Song**: "Handlebars" by JENNIE & Dua Lipa  
+**Generated**: 8/18/2025, 9:02:32 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/64899ac0da72b61de038f090b6d5c2f4.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#060607` (Main brand color, CTAs)
-- **Secondary**: `#dadada` (Dark backgrounds, text)  
-- **Accent**: `#7c7c7c` (Highlights, buttons)
-- **Muted**: `#747474` (Subtle elements, borders)
+- **Primary**: `#0c0d10` (Main brand color, CTAs)
+- **Secondary**: `#c2453b` (Dark backgrounds, text)  
+- **Accent**: `#7e746e` (Highlights, buttons)
+- **Muted**: `#7c6c64` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #060607
-secondary: #dadada
-accent: #7c7c7c
-muted: #747474
+primary: #0c0d10
+secondary: #c2453b
+accent: #7e746e
+muted: #7c6c64
 ```
 
 ### Method 3: Programmatic (Advanced)
