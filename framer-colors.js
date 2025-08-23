@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "UNNATURAL" by WJSN
-// Generated: 8/22/2025, 9:00:59 AM
+// Song: "run for the hills" by Tate McRae
+// Generated: 8/23/2025, 9:00:56 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#d25d54",
-  "secondary": "#f1cdc9",
-  "accent": "#e7a3b7",
-  "muted": "#e39e80"
+  "primary": "#201f1e",
+  "secondary": "#bd9b98",
+  "accent": "#73779e",
+  "muted": "#8c8d8a"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#d25d54');
-    root.style.setProperty('--color-secondary', '#f1cdc9');
-    root.style.setProperty('--color-accent', '#e7a3b7');
-    root.style.setProperty('--color-muted', '#e39e80');
+        root.style.setProperty('--color-primary', '#201f1e');
+    root.style.setProperty('--color-secondary', '#bd9b98');
+    root.style.setProperty('--color-accent', '#73779e');
+    root.style.setProperty('--color-muted', '#8c8d8a');
 }
 
 // Auto-apply colors when this script loads
