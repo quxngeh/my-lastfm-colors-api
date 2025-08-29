@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Let Me Love You (feat. Lil Wayne)" by Ariana Grande
-// Generated: 8/28/2025, 9:01:03 AM
+// Song: "Igloo" by Kiss of Life
+// Generated: 8/29/2025, 9:01:09 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#4d4d4d",
-  "secondary": "#dcdbdb",
-  "accent": "#b0b0b0",
-  "muted": "#aca4ac"
+  "primary": "#05080b",
+  "secondary": "#e0cde0",
+  "accent": "#2a639a",
+  "muted": "#558fcd"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#4d4d4d');
-    root.style.setProperty('--color-secondary', '#dcdbdb');
-    root.style.setProperty('--color-accent', '#b0b0b0');
-    root.style.setProperty('--color-muted', '#aca4ac');
+        root.style.setProperty('--color-primary', '#05080b');
+    root.style.setProperty('--color-secondary', '#e0cde0');
+    root.style.setProperty('--color-accent', '#2a639a');
+    root.style.setProperty('--color-muted', '#558fcd');
 }
 
 // Auto-apply colors when this script loads
