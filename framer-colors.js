@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "UNNATURAL" by WJSN
-// Generated: 9/12/2025, 9:01:24 AM
+// Song: "GIỮ LẤY LÀM GÌ" by Monstar
+// Generated: 9/13/2025, 9:01:07 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#d25d54",
-  "secondary": "#f1cdc9",
-  "accent": "#e7a3b7",
-  "muted": "#e39e80"
+  "primary": "#1e2020",
+  "secondary": "#5c5b55",
+  "accent": "#4c4c4c",
+  "muted": "#4c544c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#d25d54');
-    root.style.setProperty('--color-secondary', '#f1cdc9');
-    root.style.setProperty('--color-accent', '#e7a3b7');
-    root.style.setProperty('--color-muted', '#e39e80');
+        root.style.setProperty('--color-primary', '#1e2020');
+    root.style.setProperty('--color-secondary', '#5c5b55');
+    root.style.setProperty('--color-accent', '#4c4c4c');
+    root.style.setProperty('--color-muted', '#4c544c');
 }
 
 // Auto-apply colors when this script loads
