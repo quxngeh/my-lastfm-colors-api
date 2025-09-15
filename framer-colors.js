@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Straight Line (Korean version)" by Kep1er
-// Generated: 9/14/2025, 9:01:18 AM
+// Song: "WOULD YOU RUN" by TRI.BE
+// Generated: 9/15/2025, 9:01:19 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#110d11",
-  "secondary": "#bbacbc",
-  "accent": "#6b6f8c",
-  "muted": "#7788a6"
+  "primary": "#d4d5e5",
+  "secondary": "#3f5f75",
+  "accent": "#b77552",
+  "muted": "#757598"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#110d11');
-    root.style.setProperty('--color-secondary', '#bbacbc');
-    root.style.setProperty('--color-accent', '#6b6f8c');
-    root.style.setProperty('--color-muted', '#7788a6');
+        root.style.setProperty('--color-primary', '#d4d5e5');
+    root.style.setProperty('--color-secondary', '#3f5f75');
+    root.style.setProperty('--color-accent', '#b77552');
+    root.style.setProperty('--color-muted', '#757598');
 }
 
 // Auto-apply colors when this script loads
