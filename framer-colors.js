@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "처음처럼" by T-ARA
-// Generated: 9/18/2025, 9:01:18 AM
+// Song: "ETA" by NewJeans
+// Generated: 9/19/2025, 9:01:24 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#f2f2f2",
-  "secondary": "#252525",
-  "accent": "#7c7c7c",
-  "muted": "#848484"
+  "primary": "#a8c7d5",
+  "secondary": "#1e222a",
+  "accent": "#8b4561",
+  "muted": "#a38857"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#f2f2f2');
-    root.style.setProperty('--color-secondary', '#252525');
-    root.style.setProperty('--color-accent', '#7c7c7c');
-    root.style.setProperty('--color-muted', '#848484');
+        root.style.setProperty('--color-primary', '#a8c7d5');
+    root.style.setProperty('--color-secondary', '#1e222a');
+    root.style.setProperty('--color-accent', '#8b4561');
+    root.style.setProperty('--color-muted', '#a38857');
 }
 
 // Auto-apply colors when this script loads
