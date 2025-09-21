@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "the Aerialist (Wonderboy)" by GWSN
-// Generated: 9/20/2025, 9:01:14 AM
+// Song: "New Me" by WJSN
+// Generated: 9/21/2025, 9:01:15 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#bebcbc",
-  "secondary": "#373521",
-  "accent": "#68654c",
-  "muted": "#5c543e"
+  "primary": "#d25d54",
+  "secondary": "#f1cdc9",
+  "accent": "#e7a3b7",
+  "muted": "#e39e80"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#bebcbc');
-    root.style.setProperty('--color-secondary', '#373521');
-    root.style.setProperty('--color-accent', '#68654c');
-    root.style.setProperty('--color-muted', '#5c543e');
+        root.style.setProperty('--color-primary', '#d25d54');
+    root.style.setProperty('--color-secondary', '#f1cdc9');
+    root.style.setProperty('--color-accent', '#e7a3b7');
+    root.style.setProperty('--color-muted', '#e39e80');
 }
 
 // Auto-apply colors when this script loads
