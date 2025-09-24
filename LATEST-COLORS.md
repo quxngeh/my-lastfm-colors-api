@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "I might say something stupid featuring the 1975 & jon hopkins" by Charli xcx, The 1975 & Jon Hopkins  
-**Generated**: 9/23/2025, 9:01:10 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/b2cd96575aba7fa2283ba449223bf2d1.jpg)
+**Song**: "No Ordinary Love" by Sade  
+**Generated**: 9/24/2025, 9:01:21 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/2fe564884d6a90885da819ed1ca631ce.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#8ac808` (Main brand color, CTAs)
-- **Secondary**: `#162a05` (Dark backgrounds, text)  
-- **Accent**: `#557910` (Highlights, buttons)
-- **Muted**: `#3b6607` (Subtle elements, borders)
+- **Primary**: `#232017` (Main brand color, CTAs)
+- **Secondary**: `#dcdad5` (Dark backgrounds, text)  
+- **Accent**: `#8c8c80` (Highlights, buttons)
+- **Muted**: `#847c84` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #8ac808
-secondary: #162a05
-accent: #557910
-muted: #3b6607
+primary: #232017
+secondary: #dcdad5
+accent: #8c8c80
+muted: #847c84
 ```
 
 ### Method 3: Programmatic (Advanced)
