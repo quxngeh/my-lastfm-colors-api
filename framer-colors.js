@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "No Ordinary Love" by Sade
-// Generated: 9/24/2025, 9:01:21 AM
+// Song: "Supersonic" by fromis_9
+// Generated: 9/25/2025, 9:01:18 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#232017",
-  "secondary": "#dcdad5",
-  "accent": "#8c8c80",
-  "muted": "#847c84"
+  "primary": "#d29f99",
+  "secondary": "#475352",
+  "accent": "#903643",
+  "muted": "#dab531"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#232017');
-    root.style.setProperty('--color-secondary', '#dcdad5');
-    root.style.setProperty('--color-accent', '#8c8c80');
-    root.style.setProperty('--color-muted', '#847c84');
+        root.style.setProperty('--color-primary', '#d29f99');
+    root.style.setProperty('--color-secondary', '#475352');
+    root.style.setProperty('--color-accent', '#903643');
+    root.style.setProperty('--color-muted', '#dab531');
 }
 
 // Auto-apply colors when this script loads
