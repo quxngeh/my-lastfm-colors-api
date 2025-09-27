@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Chasing Lightning" by LE SSERAFIM
-// Generated: 9/26/2025, 9:01:18 AM
+// Song: "Phóng Đổ Tim Em" by Wren Evans & itsnk
+// Generated: 9/27/2025, 9:01:18 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#13142c",
-  "secondary": "#bbe2f5",
-  "accent": "#75b2d2",
-  "muted": "#54759e"
+  "primary": "#3f2224",
+  "secondary": "#d4b7bb",
+  "accent": "#9095a3",
+  "muted": "#797c92"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#13142c');
-    root.style.setProperty('--color-secondary', '#bbe2f5');
-    root.style.setProperty('--color-accent', '#75b2d2');
-    root.style.setProperty('--color-muted', '#54759e');
+        root.style.setProperty('--color-primary', '#3f2224');
+    root.style.setProperty('--color-secondary', '#d4b7bb');
+    root.style.setProperty('--color-accent', '#9095a3');
+    root.style.setProperty('--color-muted', '#797c92');
 }
 
 // Auto-apply colors when this script loads
