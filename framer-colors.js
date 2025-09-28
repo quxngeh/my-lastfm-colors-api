@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Phóng Đổ Tim Em" by Wren Evans & itsnk
-// Generated: 9/27/2025, 9:01:18 AM
+// Song: "I'LL LIKE YOU" by ILLIT
+// Generated: 9/28/2025, 9:01:09 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#3f2224",
-  "secondary": "#d4b7bb",
-  "accent": "#9095a3",
-  "muted": "#797c92"
+  "primary": "#bbb998",
+  "secondary": "#2e4125",
+  "accent": "#726f33",
+  "muted": "#5b4628"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#3f2224');
-    root.style.setProperty('--color-secondary', '#d4b7bb');
-    root.style.setProperty('--color-accent', '#9095a3');
-    root.style.setProperty('--color-muted', '#797c92');
+        root.style.setProperty('--color-primary', '#bbb998');
+    root.style.setProperty('--color-secondary', '#2e4125');
+    root.style.setProperty('--color-accent', '#726f33');
+    root.style.setProperty('--color-muted', '#5b4628');
 }
 
 // Auto-apply colors when this script loads
