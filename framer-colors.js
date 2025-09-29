@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "I'LL LIKE YOU" by ILLIT
-// Generated: 9/28/2025, 9:01:09 AM
+// Song: "AGASSY" by SOOJIN
+// Generated: 9/29/2025, 9:01:16 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#bbb998",
-  "secondary": "#2e4125",
-  "accent": "#726f33",
-  "muted": "#5b4628"
+  "primary": "#c4292c",
+  "secondary": "#f59361",
+  "accent": "#371f14",
+  "muted": "#7c3229"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#bbb998');
-    root.style.setProperty('--color-secondary', '#2e4125');
-    root.style.setProperty('--color-accent', '#726f33');
-    root.style.setProperty('--color-muted', '#5b4628');
+        root.style.setProperty('--color-primary', '#c4292c');
+    root.style.setProperty('--color-secondary', '#f59361');
+    root.style.setProperty('--color-accent', '#371f14');
+    root.style.setProperty('--color-muted', '#7c3229');
 }
 
 // Auto-apply colors when this script loads
