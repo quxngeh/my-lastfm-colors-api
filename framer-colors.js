@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Running" by PRISTIN
-// Generated: 9/30/2025, 9:01:15 AM
+// Song: "Last Sequence" by WJSN
+// Generated: 10/1/2025, 9:01:26 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#d2bbaa",
-  "secondary": "#2e3538",
-  "accent": "#caa12e",
-  "muted": "#85493a"
+  "primary": "#92d4e2",
+  "secondary": "#26a5b5",
+  "accent": "#93853b",
+  "muted": "#755f9b"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#d2bbaa');
-    root.style.setProperty('--color-secondary', '#2e3538');
-    root.style.setProperty('--color-accent', '#caa12e');
-    root.style.setProperty('--color-muted', '#85493a');
+        root.style.setProperty('--color-primary', '#92d4e2');
+    root.style.setProperty('--color-secondary', '#26a5b5');
+    root.style.setProperty('--color-accent', '#93853b');
+    root.style.setProperty('--color-muted', '#755f9b');
 }
 
 // Auto-apply colors when this script loads
