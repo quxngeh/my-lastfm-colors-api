@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "White Tee" by Summer Walker & NO1-NOAH
-// Generated: 10/9/2025, 9:01:20 AM
+// Song: "Cookie" by NewJeans
+// Generated: 10/10/2025, 9:01:08 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#2e3031",
-  "secondary": "#c4c1b4",
-  "accent": "#939391",
-  "muted": "#848484"
+  "primary": "#c3c7e1",
+  "secondary": "#192d8e",
+  "accent": "#606db0",
+  "muted": "#4552a3"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#2e3031');
-    root.style.setProperty('--color-secondary', '#c4c1b4');
-    root.style.setProperty('--color-accent', '#939391');
-    root.style.setProperty('--color-muted', '#848484');
+        root.style.setProperty('--color-primary', '#c3c7e1');
+    root.style.setProperty('--color-secondary', '#192d8e');
+    root.style.setProperty('--color-accent', '#606db0');
+    root.style.setProperty('--color-muted', '#4552a3');
 }
 
 // Auto-apply colors when this script loads
