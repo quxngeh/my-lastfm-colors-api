@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Guess featuring billie eilish" by Charli xcx
-// Generated: 10/15/2025, 9:01:09 AM
+// Song: "like JENNIE" by Jennie
+// Generated: 10/16/2025, 9:01:18 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#8ac908",
-  "secondary": "#162a05",
-  "accent": "#557810",
-  "muted": "#3c6906"
+  "primary": "#0a0e0d",
+  "secondary": "#c54339",
+  "accent": "#805c60",
+  "muted": "#6c4454"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#8ac908');
-    root.style.setProperty('--color-secondary', '#162a05');
-    root.style.setProperty('--color-accent', '#557810');
-    root.style.setProperty('--color-muted', '#3c6906');
+        root.style.setProperty('--color-primary', '#0a0e0d');
+    root.style.setProperty('--color-secondary', '#c54339');
+    root.style.setProperty('--color-accent', '#805c60');
+    root.style.setProperty('--color-muted', '#6c4454');
 }
 
 // Auto-apply colors when this script loads
