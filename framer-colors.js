@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Better Things" by aespa
-// Generated: 10/18/2025, 9:01:05 AM
+// Song: "UNNATURAL" by WJSN
+// Generated: 10/19/2025, 9:01:00 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e30414",
-  "secondary": "#202c32",
-  "accent": "#bec6cd",
-  "muted": "#b87884"
+  "primary": "#d25d54",
+  "secondary": "#f1cdc9",
+  "accent": "#e7a3b7",
+  "muted": "#e39e80"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e30414');
-    root.style.setProperty('--color-secondary', '#202c32');
-    root.style.setProperty('--color-accent', '#bec6cd');
-    root.style.setProperty('--color-muted', '#b87884');
+        root.style.setProperty('--color-primary', '#d25d54');
+    root.style.setProperty('--color-secondary', '#f1cdc9');
+    root.style.setProperty('--color-accent', '#e7a3b7');
+    root.style.setProperty('--color-muted', '#e39e80');
 }
 
 // Auto-apply colors when this script loads
