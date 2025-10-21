@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "One & Only" by GWSN
-// Generated: 10/20/2025, 9:08:20 AM
+// Song: "with the IE (way up)" by Jennie
+// Generated: 10/21/2025, 9:01:22 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#a3cfdd",
-  "secondary": "#115a76",
-  "accent": "#9d3738",
-  "muted": "#9d7060"
+  "primary": "#0a0e0d",
+  "secondary": "#c54339",
+  "accent": "#805c60",
+  "muted": "#6c4454"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#a3cfdd');
-    root.style.setProperty('--color-secondary', '#115a76');
-    root.style.setProperty('--color-accent', '#9d3738');
-    root.style.setProperty('--color-muted', '#9d7060');
+        root.style.setProperty('--color-primary', '#0a0e0d');
+    root.style.setProperty('--color-secondary', '#c54339');
+    root.style.setProperty('--color-accent', '#805c60');
+    root.style.setProperty('--color-muted', '#6c4454');
 }
 
 // Auto-apply colors when this script loads
