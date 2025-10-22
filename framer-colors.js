@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "with the IE (way up)" by Jennie
-// Generated: 10/21/2025, 9:01:22 AM
+// Song: "NGÂN" by tlinh & Low G
+// Generated: 10/22/2025, 9:01:29 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#0a0e0d",
-  "secondary": "#c54339",
-  "accent": "#805c60",
-  "muted": "#6c4454"
+  "primary": "#c15f51",
+  "secondary": "#120d0b",
+  "accent": "#848484",
+  "muted": "#7c7c7c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#0a0e0d');
-    root.style.setProperty('--color-secondary', '#c54339');
-    root.style.setProperty('--color-accent', '#805c60');
-    root.style.setProperty('--color-muted', '#6c4454');
+        root.style.setProperty('--color-primary', '#c15f51');
+    root.style.setProperty('--color-secondary', '#120d0b');
+    root.style.setProperty('--color-accent', '#848484');
+    root.style.setProperty('--color-muted', '#7c7c7c');
 }
 
 // Auto-apply colors when this script loads
