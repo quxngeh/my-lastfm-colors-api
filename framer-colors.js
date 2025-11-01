@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Butterfly Effect" by ARTMS
-// Generated: 10/31/2025, 9:01:05 AM
+// Song: "Cầu Vĩnh Tuy" by Wren Evans & itsnk
+// Generated: 11/1/2025, 9:01:10 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#cf9ab8",
-  "secondary": "#324f7b",
-  "accent": "#905a62",
-  "muted": "#804367"
+  "primary": "#3f2224",
+  "secondary": "#d4b7bb",
+  "accent": "#9095a3",
+  "muted": "#797c92"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#cf9ab8');
-    root.style.setProperty('--color-secondary', '#324f7b');
-    root.style.setProperty('--color-accent', '#905a62');
-    root.style.setProperty('--color-muted', '#804367');
+        root.style.setProperty('--color-primary', '#3f2224');
+    root.style.setProperty('--color-secondary', '#d4b7bb');
+    root.style.setProperty('--color-accent', '#9095a3');
+    root.style.setProperty('--color-muted', '#797c92');
 }
 
 // Auto-apply colors when this script loads
