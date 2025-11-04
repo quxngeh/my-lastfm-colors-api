@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Lucky Girl Syndrome" by ILLIT
-// Generated: 11/3/2025, 9:01:15 AM
+// Song: "Supersonic" by fromis_9
+// Generated: 11/4/2025, 9:01:21 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#515951",
-  "secondary": "#d1cec4",
-  "accent": "#a0b1b0",
-  "muted": "#9db4a4"
+  "primary": "#d29f99",
+  "secondary": "#475352",
+  "accent": "#903643",
+  "muted": "#dab531"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#515951');
-    root.style.setProperty('--color-secondary', '#d1cec4');
-    root.style.setProperty('--color-accent', '#a0b1b0');
-    root.style.setProperty('--color-muted', '#9db4a4');
+        root.style.setProperty('--color-primary', '#d29f99');
+    root.style.setProperty('--color-secondary', '#475352');
+    root.style.setProperty('--color-accent', '#903643');
+    root.style.setProperty('--color-muted', '#dab531');
 }
 
 // Auto-apply colors when this script loads
