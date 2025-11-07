@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "BATTER UP (7 ver.)" by BABYMONSTER
-// Generated: 11/6/2025, 9:01:11 AM
+// Song: "WOULD YOU RUN" by TRI.BE
+// Generated: 11/7/2025, 9:01:07 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#edcfd3",
-  "secondary": "#b8222a",
-  "accent": "#c05056",
-  "muted": "#cd6f77"
+  "primary": "#d4d5e5",
+  "secondary": "#3f5f75",
+  "accent": "#b77552",
+  "muted": "#757598"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#edcfd3');
-    root.style.setProperty('--color-secondary', '#b8222a');
-    root.style.setProperty('--color-accent', '#c05056');
-    root.style.setProperty('--color-muted', '#cd6f77');
+        root.style.setProperty('--color-primary', '#d4d5e5');
+    root.style.setProperty('--color-secondary', '#3f5f75');
+    root.style.setProperty('--color-accent', '#b77552');
+    root.style.setProperty('--color-muted', '#757598');
 }
 
 // Auto-apply colors when this script loads
