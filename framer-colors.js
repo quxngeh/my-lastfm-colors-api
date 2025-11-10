@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "KNOW ABOUT ME" by NMIXX
-// Generated: 11/9/2025, 9:00:59 AM
+// Song: "Rumor" by H.I.N.P (Hot Issue of Ntl. Producers)
+// Generated: 11/10/2025, 9:01:08 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#4c4c63",
-  "secondary": "#d9d1dc",
-  "accent": "#aeb1c6",
-  "muted": "#8589c4"
+  "primary": "#f2e6f4",
+  "secondary": "#e16ba3",
+  "accent": "#ea9dc0",
+  "muted": "#ba96ac"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#4c4c63');
-    root.style.setProperty('--color-secondary', '#d9d1dc');
-    root.style.setProperty('--color-accent', '#aeb1c6');
-    root.style.setProperty('--color-muted', '#8589c4');
+        root.style.setProperty('--color-primary', '#f2e6f4');
+    root.style.setProperty('--color-secondary', '#e16ba3');
+    root.style.setProperty('--color-accent', '#ea9dc0');
+    root.style.setProperty('--color-muted', '#ba96ac');
 }
 
 // Auto-apply colors when this script loads
