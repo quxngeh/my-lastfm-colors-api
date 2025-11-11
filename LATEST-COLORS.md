@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "Rumor" by H.I.N.P (Hot Issue of Ntl. Producers)  
-**Generated**: 11/10/2025, 9:01:08 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/5f2c6f99ee2bef2a455e4d5fea96592b.jpg)
+**Song**: "Whiplash" by aespa  
+**Generated**: 11/11/2025, 9:01:31 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/3ef330e11bdcad676053e2dd2cfd1920.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#f2e6f4` (Main brand color, CTAs)
-- **Secondary**: `#e16ba3` (Dark backgrounds, text)  
-- **Accent**: `#ea9dc0` (Highlights, buttons)
-- **Muted**: `#ba96ac` (Subtle elements, borders)
+- **Primary**: `#0f0e0f` (Main brand color, CTAs)
+- **Secondary**: `#b2b1b0` (Dark backgrounds, text)  
+- **Accent**: `#7a7c84` (Highlights, buttons)
+- **Muted**: `#6c8c4c` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #f2e6f4
-secondary: #e16ba3
-accent: #ea9dc0
-muted: #ba96ac
+primary: #0f0e0f
+secondary: #b2b1b0
+accent: #7a7c84
+muted: #6c8c4c
 ```
 
 ### Method 3: Programmatic (Advanced)
