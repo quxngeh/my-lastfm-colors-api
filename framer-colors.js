@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "LOVE ATTACK" by RESCENE
-// Generated: 11/13/2025, 9:01:14 AM
+// Song: "Supersonic" by fromis_9
+// Generated: 11/14/2025, 9:01:06 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#34a7c5",
-  "secondary": "#d4b2c5",
-  "accent": "#193c48",
-  "muted": "#2e5474"
+  "primary": "#d29f99",
+  "secondary": "#475352",
+  "accent": "#903643",
+  "muted": "#dab531"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#34a7c5');
-    root.style.setProperty('--color-secondary', '#d4b2c5');
-    root.style.setProperty('--color-accent', '#193c48');
-    root.style.setProperty('--color-muted', '#2e5474');
+        root.style.setProperty('--color-primary', '#d29f99');
+    root.style.setProperty('--color-secondary', '#475352');
+    root.style.setProperty('--color-accent', '#903643');
+    root.style.setProperty('--color-muted', '#dab531');
 }
 
 // Auto-apply colors when this script loads
