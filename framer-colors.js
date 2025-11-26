@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "24" by tripleS
-// Generated: 11/25/2025, 9:02:01 AM
+// Song: "ExtraL" by JENNIE & Doechii
+// Generated: 11/26/2025, 9:01:17 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#18181e",
-  "secondary": "#b7a9a6",
-  "accent": "#7f7e80",
-  "muted": "#707484"
+  "primary": "#090e0d",
+  "secondary": "#c04338",
+  "accent": "#786c60",
+  "muted": "#715e5c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#18181e');
-    root.style.setProperty('--color-secondary', '#b7a9a6');
-    root.style.setProperty('--color-accent', '#7f7e80');
-    root.style.setProperty('--color-muted', '#707484');
+        root.style.setProperty('--color-primary', '#090e0d');
+    root.style.setProperty('--color-secondary', '#c04338');
+    root.style.setProperty('--color-accent', '#786c60');
+    root.style.setProperty('--color-muted', '#715e5c');
 }
 
 // Auto-apply colors when this script loads
