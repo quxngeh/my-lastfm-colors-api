@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Midnight Fiction" by ILLIT
-// Generated: 11/30/2025, 9:00:57 AM
+// Song: "WOW (Japanese version)" by IVE
+// Generated: 12/1/2025, 9:02:55 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#515951",
-  "secondary": "#d1cec4",
-  "accent": "#a0b1b0",
-  "muted": "#9db4a4"
+  "primary": "#f4eafb",
+  "secondary": "#8f39e4",
+  "accent": "#c894f2",
+  "muted": "#a28aba"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#515951');
-    root.style.setProperty('--color-secondary', '#d1cec4');
-    root.style.setProperty('--color-accent', '#a0b1b0');
-    root.style.setProperty('--color-muted', '#9db4a4');
+        root.style.setProperty('--color-primary', '#f4eafb');
+    root.style.setProperty('--color-secondary', '#8f39e4');
+    root.style.setProperty('--color-accent', '#c894f2');
+    root.style.setProperty('--color-muted', '#a28aba');
 }
 
 // Auto-apply colors when this script loads
