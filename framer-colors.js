@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Kiss Your Lips" by WJSN THE BLACK
-// Generated: 12/2/2025, 9:03:11 AM
+// Song: "TTYL" by Loossemble
+// Generated: 12/3/2025, 9:02:43 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#060607",
-  "secondary": "#dadada",
-  "accent": "#7c7c7c",
-  "muted": "#747474"
+  "primary": "#e8eadd",
+  "secondary": "#bdcb75",
+  "accent": "#aeb49b",
+  "muted": "#bcbca7"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#060607');
-    root.style.setProperty('--color-secondary', '#dadada');
-    root.style.setProperty('--color-accent', '#7c7c7c');
-    root.style.setProperty('--color-muted', '#747474');
+        root.style.setProperty('--color-primary', '#e8eadd');
+    root.style.setProperty('--color-secondary', '#bdcb75');
+    root.style.setProperty('--color-accent', '#aeb49b');
+    root.style.setProperty('--color-muted', '#bcbca7');
 }
 
 // Auto-apply colors when this script loads
