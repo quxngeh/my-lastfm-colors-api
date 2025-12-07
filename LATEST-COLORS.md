@@ -1,7 +1,7 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "-18" by TRI.BE  
-**Generated**: 12/6/2025, 9:00:55 AM  
+**Song**: "RUB-A-DUM" by TRI.BE  
+**Generated**: 12/7/2025, 9:00:58 AM  
 **Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/3fec72078725a2c019205fcf67d98187.jpg)
 
 ## 🎨 Color Palette

@@ -1,6 +1,6 @@
 // Auto-generated Framer color updater
-// Song: "-18" by TRI.BE
-// Generated: 12/6/2025, 9:00:55 AM
+// Song: "RUB-A-DUM" by TRI.BE
+// Generated: 12/7/2025, 9:00:58 AM
 
 // For use in Framer code components or override functions
 export const colors = {
