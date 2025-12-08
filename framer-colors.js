@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "RUB-A-DUM" by TRI.BE
-// Generated: 12/7/2025, 9:00:58 AM
+// Song: "run for the hills" by Tate McRae
+// Generated: 12/8/2025, 9:03:02 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#d4d5e5",
-  "secondary": "#3f5f75",
-  "accent": "#b77552",
-  "muted": "#757598"
+  "primary": "#201f1e",
+  "secondary": "#bd9b98",
+  "accent": "#73779e",
+  "muted": "#8c8d8a"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#d4d5e5');
-    root.style.setProperty('--color-secondary', '#3f5f75');
-    root.style.setProperty('--color-accent', '#b77552');
-    root.style.setProperty('--color-muted', '#757598');
+        root.style.setProperty('--color-primary', '#201f1e');
+    root.style.setProperty('--color-secondary', '#bd9b98');
+    root.style.setProperty('--color-accent', '#73779e');
+    root.style.setProperty('--color-muted', '#8c8d8a');
 }
 
 // Auto-apply colors when this script loads
