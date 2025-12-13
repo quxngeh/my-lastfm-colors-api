@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Damn Right" by JENNIE, Childish Gambino & Kali Uchis
-// Generated: 12/11/2025, 9:02:39 AM
+// Song: "Armageddon" by aespa
+// Generated: 12/13/2025, 9:00:59 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#0c0d10",
-  "secondary": "#c2453b",
-  "accent": "#7e746e",
-  "muted": "#7c6c64"
+  "primary": "#38502a",
+  "secondary": "#adc59a",
+  "accent": "#8ca37a",
+  "muted": "#849f7c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#0c0d10');
-    root.style.setProperty('--color-secondary', '#c2453b');
-    root.style.setProperty('--color-accent', '#7e746e');
-    root.style.setProperty('--color-muted', '#7c6c64');
+        root.style.setProperty('--color-primary', '#38502a');
+    root.style.setProperty('--color-secondary', '#adc59a');
+    root.style.setProperty('--color-accent', '#8ca37a');
+    root.style.setProperty('--color-muted', '#849f7c');
 }
 
 // Auto-apply colors when this script loads
