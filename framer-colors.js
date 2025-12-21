@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Bo Peep Bo Peep" by T-ARA
-// Generated: 12/20/2025, 9:01:00 AM
+// Song: "New Me" by WJSN
+// Generated: 12/21/2025, 9:00:57 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#f2f2f2",
-  "secondary": "#252525",
-  "accent": "#7c7c7c",
-  "muted": "#848484"
+  "primary": "#d25d54",
+  "secondary": "#f1cdc9",
+  "accent": "#e7a3b7",
+  "muted": "#e39e80"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#f2f2f2');
-    root.style.setProperty('--color-secondary', '#252525');
-    root.style.setProperty('--color-accent', '#7c7c7c');
-    root.style.setProperty('--color-muted', '#848484');
+        root.style.setProperty('--color-primary', '#d25d54');
+    root.style.setProperty('--color-secondary', '#f1cdc9');
+    root.style.setProperty('--color-accent', '#e7a3b7');
+    root.style.setProperty('--color-muted', '#e39e80');
 }
 
 // Auto-apply colors when this script loads
