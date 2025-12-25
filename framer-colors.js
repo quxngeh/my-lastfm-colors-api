@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Sour Grapes" by LE SSERAFIM
-// Generated: 12/24/2025, 9:03:21 AM
+// Song: "Install" by Bronze
+// Generated: 12/25/2025, 9:01:52 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#040404",
-  "secondary": "#cecece",
-  "accent": "#7c7c7c",
-  "muted": "#747474"
+  "primary": "#ececec",
+  "secondary": "#f4f4f4",
+  "accent": "#fcfcfc",
+  "muted": "#f0ecf8"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#040404');
-    root.style.setProperty('--color-secondary', '#cecece');
-    root.style.setProperty('--color-accent', '#7c7c7c');
-    root.style.setProperty('--color-muted', '#747474');
+        root.style.setProperty('--color-primary', '#ececec');
+    root.style.setProperty('--color-secondary', '#f4f4f4');
+    root.style.setProperty('--color-accent', '#fcfcfc');
+    root.style.setProperty('--color-muted', '#f0ecf8');
 }
 
 // Auto-apply colors when this script loads
