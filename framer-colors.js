@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Talk talk featuring troye sivan" by Charli XCX & Troye Sivan
-// Generated: 1/4/2026, 9:00:54 AM
+// Song: "Supersonic" by fromis_9
+// Generated: 1/5/2026, 9:04:09 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#8ac809",
-  "secondary": "#162a05",
-  "accent": "#567913",
-  "muted": "#3c6508"
+  "primary": "#d29f99",
+  "secondary": "#475352",
+  "accent": "#903643",
+  "muted": "#dab531"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#8ac809');
-    root.style.setProperty('--color-secondary', '#162a05');
-    root.style.setProperty('--color-accent', '#567913');
-    root.style.setProperty('--color-muted', '#3c6508');
+        root.style.setProperty('--color-primary', '#d29f99');
+    root.style.setProperty('--color-secondary', '#475352');
+    root.style.setProperty('--color-accent', '#903643');
+    root.style.setProperty('--color-muted', '#dab531');
 }
 
 // Auto-apply colors when this script loads
