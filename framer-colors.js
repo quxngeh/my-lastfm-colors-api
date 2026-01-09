@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Whiplash" by aespa
-// Generated: 1/8/2026, 9:04:10 AM
+// Song: "SICKUHH (Feat. Kid Milli)" by NMIXX
+// Generated: 1/9/2026, 9:03:51 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#0f0e0f",
-  "secondary": "#b2b1b0",
-  "accent": "#7a7c84",
-  "muted": "#6c8c4c"
+  "primary": "#423c44",
+  "secondary": "#c6d2dd",
+  "accent": "#90b2d3",
+  "muted": "#8397b4"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#0f0e0f');
-    root.style.setProperty('--color-secondary', '#b2b1b0');
-    root.style.setProperty('--color-accent', '#7a7c84');
-    root.style.setProperty('--color-muted', '#6c8c4c');
+        root.style.setProperty('--color-primary', '#423c44');
+    root.style.setProperty('--color-secondary', '#c6d2dd');
+    root.style.setProperty('--color-accent', '#90b2d3');
+    root.style.setProperty('--color-muted', '#8397b4');
 }
 
 // Auto-apply colors when this script loads
