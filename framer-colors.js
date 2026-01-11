@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Picky Picky" by Weki Meki
-// Generated: 1/10/2026, 9:00:59 AM
+// Song: "Whiplash" by aespa
+// Generated: 1/11/2026, 9:00:55 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#f7dd5e",
-  "secondary": "#f894e0",
-  "accent": "#e65fab",
-  "muted": "#f7caa4"
+  "primary": "#0f0e0f",
+  "secondary": "#b2b1b0",
+  "accent": "#7a7c84",
+  "muted": "#6c8c4c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#f7dd5e');
-    root.style.setProperty('--color-secondary', '#f894e0');
-    root.style.setProperty('--color-accent', '#e65fab');
-    root.style.setProperty('--color-muted', '#f7caa4');
+        root.style.setProperty('--color-primary', '#0f0e0f');
+    root.style.setProperty('--color-secondary', '#b2b1b0');
+    root.style.setProperty('--color-accent', '#7a7c84');
+    root.style.setProperty('--color-muted', '#6c8c4c');
 }
 
 // Auto-apply colors when this script loads
