@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Whiplash" by aespa
-// Generated: 1/11/2026, 9:00:55 AM
+// Song: "UNNATURAL" by WJSN
+// Generated: 1/12/2026, 9:04:53 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#0f0e0f",
-  "secondary": "#b2b1b0",
-  "accent": "#7a7c84",
-  "muted": "#6c8c4c"
+  "primary": "#d25d54",
+  "secondary": "#f1cdc9",
+  "accent": "#e7a3b7",
+  "muted": "#e39e80"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#0f0e0f');
-    root.style.setProperty('--color-secondary', '#b2b1b0');
-    root.style.setProperty('--color-accent', '#7a7c84');
-    root.style.setProperty('--color-muted', '#6c8c4c');
+        root.style.setProperty('--color-primary', '#d25d54');
+    root.style.setProperty('--color-secondary', '#f1cdc9');
+    root.style.setProperty('--color-accent', '#e7a3b7');
+    root.style.setProperty('--color-muted', '#e39e80');
 }
 
 // Auto-apply colors when this script loads
