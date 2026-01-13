@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "UNNATURAL" by WJSN
-// Generated: 1/12/2026, 9:04:53 AM
+// Song: "Spark (Winter solo)" by aespa
+// Generated: 1/13/2026, 9:03:54 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#d25d54",
-  "secondary": "#f1cdc9",
-  "accent": "#e7a3b7",
-  "muted": "#e39e80"
+  "primary": "#232227",
+  "secondary": "#caccd3",
+  "accent": "#889dbb",
+  "muted": "#6a7ca5"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#d25d54');
-    root.style.setProperty('--color-secondary', '#f1cdc9');
-    root.style.setProperty('--color-accent', '#e7a3b7');
-    root.style.setProperty('--color-muted', '#e39e80');
+        root.style.setProperty('--color-primary', '#232227');
+    root.style.setProperty('--color-secondary', '#caccd3');
+    root.style.setProperty('--color-accent', '#889dbb');
+    root.style.setProperty('--color-muted', '#6a7ca5');
 }
 
 // Auto-apply colors when this script loads
