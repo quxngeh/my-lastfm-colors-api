@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "How Deep Is Your Love" by Calvin Harris, Disciples  
-**Generated**: 1/14/2026, 9:04:16 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/172e7ca6b1e3df0ddd97a433a503357f.jpg)
+**Song**: "RIZZ ME UP" by SOOJIN  
+**Generated**: 1/15/2026, 9:03:41 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/2d85e2ddfc7bb39fc262444272ba3525.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#0d0c0c` (Main brand color, CTAs)
-- **Secondary**: `#ba9ea4` (Dark backgrounds, text)  
-- **Accent**: `#7e8184` (Highlights, buttons)
-- **Muted**: `#848c8c` (Subtle elements, borders)
+- **Primary**: `#e66c4a` (Main brand color, CTAs)
+- **Secondary**: `#622522` (Dark backgrounds, text)  
+- **Accent**: `#f8c8a0` (Highlights, buttons)
+- **Muted**: `#f0a98d` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #0d0c0c
-secondary: #ba9ea4
-accent: #7e8184
-muted: #848c8c
+primary: #e66c4a
+secondary: #622522
+accent: #f8c8a0
+muted: #f0a98d
 ```
 
 ### Method 3: Programmatic (Advanced)
