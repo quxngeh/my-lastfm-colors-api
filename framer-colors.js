@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "RIZZ ME UP" by SOOJIN
-// Generated: 1/15/2026, 9:03:41 AM
+// Song: "DRIP" by BABYMONSTER
+// Generated: 1/16/2026, 9:02:55 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e66c4a",
-  "secondary": "#622522",
-  "accent": "#f8c8a0",
-  "muted": "#f0a98d"
+  "primary": "#36047c",
+  "secondary": "#f613ab",
+  "accent": "#800990",
+  "muted": "#5b0486"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e66c4a');
-    root.style.setProperty('--color-secondary', '#622522');
-    root.style.setProperty('--color-accent', '#f8c8a0');
-    root.style.setProperty('--color-muted', '#f0a98d');
+        root.style.setProperty('--color-primary', '#36047c');
+    root.style.setProperty('--color-secondary', '#f613ab');
+    root.style.setProperty('--color-accent', '#800990');
+    root.style.setProperty('--color-muted', '#5b0486');
 }
 
 // Auto-apply colors when this script loads
