@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Gas Me Up" by ITZY
-// Generated: 1/18/2026, 9:00:56 AM
+// Song: "Last Dance" by WJSN
+// Generated: 1/19/2026, 9:05:29 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#b5b4bc",
-  "secondary": "#222023",
-  "accent": "#c82e2c",
-  "muted": "#927a4d"
+  "primary": "#d25d54",
+  "secondary": "#f1cdc9",
+  "accent": "#e7a3b7",
+  "muted": "#e39e80"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#b5b4bc');
-    root.style.setProperty('--color-secondary', '#222023');
-    root.style.setProperty('--color-accent', '#c82e2c');
-    root.style.setProperty('--color-muted', '#927a4d');
+        root.style.setProperty('--color-primary', '#d25d54');
+    root.style.setProperty('--color-secondary', '#f1cdc9');
+    root.style.setProperty('--color-accent', '#e7a3b7');
+    root.style.setProperty('--color-muted', '#e39e80');
 }
 
 // Auto-apply colors when this script loads
