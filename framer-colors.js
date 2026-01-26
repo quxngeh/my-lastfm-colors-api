@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Low-key Scared But H1-KEY Ready" by H1-KEY
-// Generated: 1/25/2026, 9:01:03 AM
+// Song: "Hurt" by NewJeans
+// Generated: 1/26/2026, 9:05:26 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#b39ca9",
-  "secondary": "#292d3c",
-  "accent": "#5a3b4a",
-  "muted": "#7c5947"
+  "primary": "#d1d7e4",
+  "secondary": "#21318b",
+  "accent": "#747dad",
+  "muted": "#53609d"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#b39ca9');
-    root.style.setProperty('--color-secondary', '#292d3c');
-    root.style.setProperty('--color-accent', '#5a3b4a');
-    root.style.setProperty('--color-muted', '#7c5947');
+        root.style.setProperty('--color-primary', '#d1d7e4');
+    root.style.setProperty('--color-secondary', '#21318b');
+    root.style.setProperty('--color-accent', '#747dad');
+    root.style.setProperty('--color-muted', '#53609d');
 }
 
 // Auto-apply colors when this script loads
