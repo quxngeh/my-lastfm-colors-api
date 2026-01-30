@@ -1,6 +1,6 @@
 // Auto-generated Framer color updater
-// Song: "ZEN" by Jennie
-// Generated: 1/29/2026, 9:09:58 AM
+// Song: "like JENNIE" by Jennie
+// Generated: 1/30/2026, 9:09:03 AM
 
 // For use in Framer code components or override functions
 export const colors = {

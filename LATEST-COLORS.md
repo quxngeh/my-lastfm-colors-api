@@ -1,7 +1,7 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "ZEN" by Jennie  
-**Generated**: 1/29/2026, 9:09:58 AM  
+**Song**: "like JENNIE" by Jennie  
+**Generated**: 1/30/2026, 9:09:03 AM  
 **Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/96d5b9adcdc061748bbfb29f292558d7.png)
 
 ## 🎨 Color Palette
