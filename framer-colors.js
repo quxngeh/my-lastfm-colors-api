@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Sports car" by Tate McRae
-// Generated: 2/1/2026, 9:04:57 AM
+// Song: "LOOP (feat. Lil Cherry)" by Yves
+// Generated: 2/2/2026, 9:11:51 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#3a322a",
-  "secondary": "#9b775b",
-  "accent": "#b2a69c",
-  "muted": "#84847e"
+  "primary": "#e4dcd9",
+  "secondary": "#282b3a",
+  "accent": "#9e6861",
+  "muted": "#ac7078"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#3a322a');
-    root.style.setProperty('--color-secondary', '#9b775b');
-    root.style.setProperty('--color-accent', '#b2a69c');
-    root.style.setProperty('--color-muted', '#84847e');
+        root.style.setProperty('--color-primary', '#e4dcd9');
+    root.style.setProperty('--color-secondary', '#282b3a');
+    root.style.setProperty('--color-accent', '#9e6861');
+    root.style.setProperty('--color-muted', '#ac7078');
 }
 
 // Auto-apply colors when this script loads
