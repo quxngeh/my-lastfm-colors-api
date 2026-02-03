@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "LOOP (feat. Lil Cherry)" by Yves
-// Generated: 2/2/2026, 9:11:51 AM
+// Song: "Whiplash" by aespa
+// Generated: 2/3/2026, 9:09:25 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e4dcd9",
-  "secondary": "#282b3a",
-  "accent": "#9e6861",
-  "muted": "#ac7078"
+  "primary": "#0f0e0f",
+  "secondary": "#b2b1b0",
+  "accent": "#7a7c84",
+  "muted": "#6c8c4c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e4dcd9');
-    root.style.setProperty('--color-secondary', '#282b3a');
-    root.style.setProperty('--color-accent', '#9e6861');
-    root.style.setProperty('--color-muted', '#ac7078');
+        root.style.setProperty('--color-primary', '#0f0e0f');
+    root.style.setProperty('--color-secondary', '#b2b1b0');
+    root.style.setProperty('--color-accent', '#7a7c84');
+    root.style.setProperty('--color-muted', '#6c8c4c');
 }
 
 // Auto-apply colors when this script loads
