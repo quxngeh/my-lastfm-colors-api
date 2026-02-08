@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "New Me" by WJSN
-// Generated: 2/7/2026, 9:04:40 AM
+// Song: "Tightrope" by Tinashe
+// Generated: 2/8/2026, 9:05:15 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#d25d54",
-  "secondary": "#f1cdc9",
-  "accent": "#e7a3b7",
-  "muted": "#e39e80"
+  "primary": "#a98768",
+  "secondary": "#482a1b",
+  "accent": "#e1d6dc",
+  "muted": "#54443c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#d25d54');
-    root.style.setProperty('--color-secondary', '#f1cdc9');
-    root.style.setProperty('--color-accent', '#e7a3b7');
-    root.style.setProperty('--color-muted', '#e39e80');
+        root.style.setProperty('--color-primary', '#a98768');
+    root.style.setProperty('--color-secondary', '#482a1b');
+    root.style.setProperty('--color-accent', '#e1d6dc');
+    root.style.setProperty('--color-muted', '#54443c');
 }
 
 // Auto-apply colors when this script loads
