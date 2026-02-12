@@ -1,6 +1,6 @@
 // Auto-generated Framer color updater
 // Song: "like JENNIE" by Jennie
-// Generated: 2/11/2026, 9:14:15 AM
+// Generated: 2/12/2026, 9:13:04 AM
 
 // For use in Framer code components or override functions
 export const colors = {
