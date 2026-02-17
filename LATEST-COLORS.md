@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "Sea of Memories" by The Blokes  
-**Generated**: 2/16/2026, 9:13:30 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png)
+**Song**: "Mr.Mr." by 소녀시대  
+**Generated**: 2/17/2026, 9:13:23 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/9b89b51498074e68ceb8f53da507edeb.png)
 
 ## 🎨 Color Palette
-- **Primary**: `#ececec` (Main brand color, CTAs)
-- **Secondary**: `#f4f4f4` (Dark backgrounds, text)  
-- **Accent**: `#fcfcfc` (Highlights, buttons)
-- **Muted**: `#f0ecf8` (Subtle elements, borders)
+- **Primary**: `#c4896a` (Main brand color, CTAs)
+- **Secondary**: `#15223a` (Dark backgrounds, text)  
+- **Accent**: `#95214a` (Highlights, buttons)
+- **Muted**: `#d9d3de` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #ececec
-secondary: #f4f4f4
-accent: #fcfcfc
-muted: #f0ecf8
+primary: #c4896a
+secondary: #15223a
+accent: #95214a
+muted: #d9d3de
 ```
 
 ### Method 3: Programmatic (Advanced)
