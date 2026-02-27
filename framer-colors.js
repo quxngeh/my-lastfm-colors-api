@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "like JENNIE" by Jennie
-// Generated: 2/26/2026, 9:13:20 AM
+// Song: "Supersonic" by fromis_9
+// Generated: 2/27/2026, 9:10:23 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#0a0e0d",
-  "secondary": "#c54339",
-  "accent": "#805c60",
-  "muted": "#6c4454"
+  "primary": "#d29f99",
+  "secondary": "#475352",
+  "accent": "#903643",
+  "muted": "#dab531"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#0a0e0d');
-    root.style.setProperty('--color-secondary', '#c54339');
-    root.style.setProperty('--color-accent', '#805c60');
-    root.style.setProperty('--color-muted', '#6c4454');
+        root.style.setProperty('--color-primary', '#d29f99');
+    root.style.setProperty('--color-secondary', '#475352');
+    root.style.setProperty('--color-accent', '#903643');
+    root.style.setProperty('--color-muted', '#dab531');
 }
 
 // Auto-apply colors when this script loads
