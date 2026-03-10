@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "You Can't Come to My Party" by Chase Icon
-// Generated: 3/9/2026, 9:11:35 AM
+// Song: "Force (ANYUJIN Solo)" by IVE
+// Generated: 3/10/2026, 9:10:41 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#3f3738",
-  "secondary": "#b5b0b7",
-  "accent": "#8f8e98",
-  "muted": "#999da7"
+  "primary": "#061d54",
+  "secondary": "#c0dcf0",
+  "accent": "#748bb2",
+  "muted": "#6b85af"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#3f3738');
-    root.style.setProperty('--color-secondary', '#b5b0b7');
-    root.style.setProperty('--color-accent', '#8f8e98');
-    root.style.setProperty('--color-muted', '#999da7');
+        root.style.setProperty('--color-primary', '#061d54');
+    root.style.setProperty('--color-secondary', '#c0dcf0');
+    root.style.setProperty('--color-accent', '#748bb2');
+    root.style.setProperty('--color-muted', '#6b85af');
 }
 
 // Auto-apply colors when this script loads
