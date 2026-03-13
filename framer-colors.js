@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Dopamine (GISELLE SOLO)" by aespa
-// Generated: 3/12/2026, 9:11:23 AM
+// Song: "FEMININE ENERGY" by Cobrah
+// Generated: 3/13/2026, 9:09:26 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#232227",
-  "secondary": "#caccd3",
-  "accent": "#889dbb",
-  "muted": "#6a7ca5"
+  "primary": "#161414",
+  "secondary": "#b8b3b7",
+  "accent": "#848488",
+  "muted": "#817c84"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#232227');
-    root.style.setProperty('--color-secondary', '#caccd3');
-    root.style.setProperty('--color-accent', '#889dbb');
-    root.style.setProperty('--color-muted', '#6a7ca5');
+        root.style.setProperty('--color-primary', '#161414');
+    root.style.setProperty('--color-secondary', '#b8b3b7');
+    root.style.setProperty('--color-accent', '#848488');
+    root.style.setProperty('--color-muted', '#817c84');
 }
 
 // Auto-apply colors when this script loads
