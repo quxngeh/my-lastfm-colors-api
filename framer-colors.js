@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Phresh Out the Runway" by Rihanna
-// Generated: 3/14/2026, 9:05:43 AM
+// Song: "Sports car" by Tate McRae
+// Generated: 3/15/2026, 9:07:11 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#a96d3a",
-  "secondary": "#130e0c",
-  "accent": "#e9e3db",
-  "muted": "#c4b3a6"
+  "primary": "#3a322a",
+  "secondary": "#9b775b",
+  "accent": "#b2a69c",
+  "muted": "#84847e"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#a96d3a');
-    root.style.setProperty('--color-secondary', '#130e0c');
-    root.style.setProperty('--color-accent', '#e9e3db');
-    root.style.setProperty('--color-muted', '#c4b3a6');
+        root.style.setProperty('--color-primary', '#3a322a');
+    root.style.setProperty('--color-secondary', '#9b775b');
+    root.style.setProperty('--color-accent', '#b2a69c');
+    root.style.setProperty('--color-muted', '#84847e');
 }
 
 // Auto-apply colors when this script loads
