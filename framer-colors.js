@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Sports car" by Tate McRae
-// Generated: 3/15/2026, 9:07:11 AM
+// Song: "Mashup Trót Yêu - Chạm Khẽ Tim Anh Một Chút Thôi" by O Sung & Ngọc Mai
+// Generated: 3/16/2026, 9:17:45 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#3a322a",
-  "secondary": "#9b775b",
-  "accent": "#b2a69c",
-  "muted": "#84847e"
+  "primary": "#ececec",
+  "secondary": "#f4f4f4",
+  "accent": "#fcfcfc",
+  "muted": "#f0ecf8"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#3a322a');
-    root.style.setProperty('--color-secondary', '#9b775b');
-    root.style.setProperty('--color-accent', '#b2a69c');
-    root.style.setProperty('--color-muted', '#84847e');
+        root.style.setProperty('--color-primary', '#ececec');
+    root.style.setProperty('--color-secondary', '#f4f4f4');
+    root.style.setProperty('--color-accent', '#fcfcfc');
+    root.style.setProperty('--color-muted', '#f0ecf8');
 }
 
 // Auto-apply colors when this script loads
