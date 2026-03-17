@@ -1,7 +1,7 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "Mashup Trót Yêu - Chạm Khẽ Tim Anh Một Chút Thôi" by O Sung & Ngọc Mai  
-**Generated**: 3/16/2026, 9:17:45 AM  
+**Song**: "ACT i: Yết (feat. Benly & Nvu)" by kidsai  
+**Generated**: 3/17/2026, 9:14:20 AM  
 **Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png)
 
 ## 🎨 Color Palette

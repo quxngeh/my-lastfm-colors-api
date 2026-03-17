@@ -1,6 +1,6 @@
 // Auto-generated Framer color updater
-// Song: "Mashup Trót Yêu - Chạm Khẽ Tim Anh Một Chút Thôi" by O Sung & Ngọc Mai
-// Generated: 3/16/2026, 9:17:45 AM
+// Song: "ACT i: Yết (feat. Benly & Nvu)" by kidsai
+// Generated: 3/17/2026, 9:14:20 AM
 
 // For use in Framer code components or override functions
 export const colors = {
