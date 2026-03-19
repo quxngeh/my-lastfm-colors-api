@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "ACT i: Yết (feat. Benly & Nvu)" by kidsai
-// Generated: 3/17/2026, 9:14:20 AM
+// Song: "BLACKHOLE" by IVE
+// Generated: 3/19/2026, 9:11:47 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#ececec",
-  "secondary": "#f4f4f4",
-  "accent": "#fcfcfc",
-  "muted": "#f0ecf8"
+  "primary": "#061d54",
+  "secondary": "#c0dcf0",
+  "accent": "#748bb2",
+  "muted": "#6b85af"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#ececec');
-    root.style.setProperty('--color-secondary', '#f4f4f4');
-    root.style.setProperty('--color-accent', '#fcfcfc');
-    root.style.setProperty('--color-muted', '#f0ecf8');
+        root.style.setProperty('--color-primary', '#061d54');
+    root.style.setProperty('--color-secondary', '#c0dcf0');
+    root.style.setProperty('--color-accent', '#748bb2');
+    root.style.setProperty('--color-muted', '#6b85af');
 }
 
 // Auto-apply colors when this script loads
