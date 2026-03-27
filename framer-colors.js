@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Soñar (Breaker)" by NMIXX
-// Generated: 3/26/2026, 9:16:47 AM
+// Song: "Wish" by f5ve
+// Generated: 3/27/2026, 9:13:44 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#304057",
-  "secondary": "#82a8d3",
-  "accent": "#6d92c2",
-  "muted": "#bac4d4"
+  "primary": "#deddda",
+  "secondary": "#3b3b41",
+  "accent": "#ba925f",
+  "muted": "#84614a"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#304057');
-    root.style.setProperty('--color-secondary', '#82a8d3');
-    root.style.setProperty('--color-accent', '#6d92c2');
-    root.style.setProperty('--color-muted', '#bac4d4');
+        root.style.setProperty('--color-primary', '#deddda');
+    root.style.setProperty('--color-secondary', '#3b3b41');
+    root.style.setProperty('--color-accent', '#ba925f');
+    root.style.setProperty('--color-muted', '#84614a');
 }
 
 // Auto-apply colors when this script loads
