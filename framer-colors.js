@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Wish" by f5ve
-// Generated: 3/27/2026, 9:13:44 AM
+// Song: "Purple lace bra" by Tate McRae
+// Generated: 3/28/2026, 9:08:50 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#deddda",
-  "secondary": "#3b3b41",
-  "accent": "#ba925f",
-  "muted": "#84614a"
+  "primary": "#6578a8",
+  "secondary": "#1a1c23",
+  "accent": "#64565f",
+  "muted": "#445474"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#deddda');
-    root.style.setProperty('--color-secondary', '#3b3b41');
-    root.style.setProperty('--color-accent', '#ba925f');
-    root.style.setProperty('--color-muted', '#84614a');
+        root.style.setProperty('--color-primary', '#6578a8');
+    root.style.setProperty('--color-secondary', '#1a1c23');
+    root.style.setProperty('--color-accent', '#64565f');
+    root.style.setProperty('--color-muted', '#445474');
 }
 
 // Auto-apply colors when this script loads
