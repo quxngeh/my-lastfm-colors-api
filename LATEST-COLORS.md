@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "New Person, Same Old Mistakes" by Tame Impala  
-**Generated**: 4/1/2026, 9:21:44 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/dd45b0438a315aed98b5830aa2fc43c5.jpg)
+**Song**: "DYNAMITE" by Tyla & Wizkid  
+**Generated**: 4/2/2026, 9:18:02 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/2a923f4d73434a78825a904c95c9322f.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#49394e` (Main brand color, CTAs)
-- **Secondary**: `#c3a4b6` (Dark backgrounds, text)  
-- **Accent**: `#a391ac` (Highlights, buttons)
-- **Muted**: `#a19ea1` (Subtle elements, borders)
+- **Primary**: `#e1d7d2` (Main brand color, CTAs)
+- **Secondary**: `#48291a` (Dark backgrounds, text)  
+- **Accent**: `#7e4c33` (Highlights, buttons)
+- **Muted**: `#a37759` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #49394e
-secondary: #c3a4b6
-accent: #a391ac
-muted: #a19ea1
+primary: #e1d7d2
+secondary: #48291a
+accent: #7e4c33
+muted: #a37759
 ```
 
 ### Method 3: Programmatic (Advanced)
