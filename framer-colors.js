@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "For Sure" by American Football
-// Generated: 4/6/2026, 9:22:47 AM
+// Song: "ZEN" by Jennie
+// Generated: 4/7/2026, 9:20:38 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#545d36",
-  "secondary": "#e7cea7",
-  "accent": "#a4ac91",
-  "muted": "#988c9c"
+  "primary": "#0a0e0d",
+  "secondary": "#c54339",
+  "accent": "#805c60",
+  "muted": "#6c4454"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#545d36');
-    root.style.setProperty('--color-secondary', '#e7cea7');
-    root.style.setProperty('--color-accent', '#a4ac91');
-    root.style.setProperty('--color-muted', '#988c9c');
+        root.style.setProperty('--color-primary', '#0a0e0d');
+    root.style.setProperty('--color-secondary', '#c54339');
+    root.style.setProperty('--color-accent', '#805c60');
+    root.style.setProperty('--color-muted', '#6c4454');
 }
 
 // Auto-apply colors when this script loads
