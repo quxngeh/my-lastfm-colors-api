@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "ZEN" by Jennie
-// Generated: 4/7/2026, 9:20:38 AM
+// Song: "Flowers, Flutter, Your heart" by Kep1er
+// Generated: 4/8/2026, 9:20:12 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#0a0e0d",
-  "secondary": "#c54339",
-  "accent": "#805c60",
-  "muted": "#6c4454"
+  "primary": "#110d11",
+  "secondary": "#bbacbc",
+  "accent": "#6b6f8c",
+  "muted": "#7788a6"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#0a0e0d');
-    root.style.setProperty('--color-secondary', '#c54339');
-    root.style.setProperty('--color-accent', '#805c60');
-    root.style.setProperty('--color-muted', '#6c4454');
+        root.style.setProperty('--color-primary', '#110d11');
+    root.style.setProperty('--color-secondary', '#bbacbc');
+    root.style.setProperty('--color-accent', '#6b6f8c');
+    root.style.setProperty('--color-muted', '#7788a6');
 }
 
 // Auto-apply colors when this script loads
