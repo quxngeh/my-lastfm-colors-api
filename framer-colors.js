@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "ExtraL" by JENNIE & Doechii
-// Generated: 4/11/2026, 9:11:39 AM
+// Song: "Red light sign, but we go" by NMIXX
+// Generated: 4/13/2026, 9:30:24 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#090e0d",
-  "secondary": "#c04338",
-  "accent": "#786c60",
-  "muted": "#715e5c"
+  "primary": "#423c44",
+  "secondary": "#c6d2dd",
+  "accent": "#90b2d3",
+  "muted": "#8397b4"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#090e0d');
-    root.style.setProperty('--color-secondary', '#c04338');
-    root.style.setProperty('--color-accent', '#786c60');
-    root.style.setProperty('--color-muted', '#715e5c');
+        root.style.setProperty('--color-primary', '#423c44');
+    root.style.setProperty('--color-secondary', '#c6d2dd');
+    root.style.setProperty('--color-accent', '#90b2d3');
+    root.style.setProperty('--color-muted', '#8397b4');
 }
 
 // Auto-apply colors when this script loads
