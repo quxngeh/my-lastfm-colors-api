@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Kill This Love" by BLACKPINK
-// Generated: 5/4/2026, 9:39:39 AM
+// Song: "8 (JANGWONYOUNG Solo)" by IVE
+// Generated: 5/5/2026, 9:32:37 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#dfafb8",
-  "secondary": "#493536",
-  "accent": "#74545c",
-  "muted": "#745454"
+  "primary": "#061d54",
+  "secondary": "#c0dcf0",
+  "accent": "#748bb2",
+  "muted": "#6b85af"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#dfafb8');
-    root.style.setProperty('--color-secondary', '#493536');
-    root.style.setProperty('--color-accent', '#74545c');
-    root.style.setProperty('--color-muted', '#745454');
+        root.style.setProperty('--color-primary', '#061d54');
+    root.style.setProperty('--color-secondary', '#c0dcf0');
+    root.style.setProperty('--color-accent', '#748bb2');
+    root.style.setProperty('--color-muted', '#6b85af');
 }
 
 // Auto-apply colors when this script loads
