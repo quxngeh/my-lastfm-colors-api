@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "8 (JANGWONYOUNG Solo)" by IVE
-// Generated: 5/5/2026, 9:32:37 AM
+// Song: "Come To God" by Indigo De Souza
+// Generated: 5/6/2026, 9:42:56 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#061d54",
-  "secondary": "#c0dcf0",
-  "accent": "#748bb2",
-  "muted": "#6b85af"
+  "primary": "#334658",
+  "secondary": "#8ca4c1",
+  "accent": "#a88081",
+  "muted": "#a5a8a4"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#061d54');
-    root.style.setProperty('--color-secondary', '#c0dcf0');
-    root.style.setProperty('--color-accent', '#748bb2');
-    root.style.setProperty('--color-muted', '#6b85af');
+        root.style.setProperty('--color-primary', '#334658');
+    root.style.setProperty('--color-secondary', '#8ca4c1');
+    root.style.setProperty('--color-accent', '#a88081');
+    root.style.setProperty('--color-muted', '#a5a8a4');
 }
 
 // Auto-apply colors when this script loads
