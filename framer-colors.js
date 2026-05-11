@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Reality Hurts" by NMIXX
-// Generated: 5/10/2026, 9:28:26 AM
+// Song: "I Got a Boy" by Girls' Generation
+// Generated: 5/11/2026, 10:09:00 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#506a92",
-  "secondary": "#bfc4d2",
-  "accent": "#19232d",
-  "muted": "#a0b5cc"
+  "primary": "#c1474e",
+  "secondary": "#292f53",
+  "accent": "#e2e0d0",
+  "muted": "#ab82d7"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#506a92');
-    root.style.setProperty('--color-secondary', '#bfc4d2');
-    root.style.setProperty('--color-accent', '#19232d');
-    root.style.setProperty('--color-muted', '#a0b5cc');
+        root.style.setProperty('--color-primary', '#c1474e');
+    root.style.setProperty('--color-secondary', '#292f53');
+    root.style.setProperty('--color-accent', '#e2e0d0');
+    root.style.setProperty('--color-muted', '#ab82d7');
 }
 
 // Auto-apply colors when this script loads
