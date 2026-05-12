@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "I Got a Boy" by Girls' Generation
-// Generated: 5/11/2026, 10:09:00 AM
+// Song: "Pantomime" by WJSN
+// Generated: 5/12/2026, 9:50:32 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#c1474e",
-  "secondary": "#292f53",
-  "accent": "#e2e0d0",
-  "muted": "#ab82d7"
+  "primary": "#c7cab5",
+  "secondary": "#2c2958",
+  "accent": "#7d565b",
+  "muted": "#797f4b"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#c1474e');
-    root.style.setProperty('--color-secondary', '#292f53');
-    root.style.setProperty('--color-accent', '#e2e0d0');
-    root.style.setProperty('--color-muted', '#ab82d7');
+        root.style.setProperty('--color-primary', '#c7cab5');
+    root.style.setProperty('--color-secondary', '#2c2958');
+    root.style.setProperty('--color-accent', '#7d565b');
+    root.style.setProperty('--color-muted', '#797f4b');
 }
 
 // Auto-apply colors when this script loads
