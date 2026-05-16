@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Hot Summer" by f(x)
-// Generated: 5/15/2026, 9:51:35 AM
+// Song: "ExtraL" by JENNIE & Doechii
+// Generated: 5/16/2026, 9:28:48 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e8382b",
-  "secondary": "#d6ded0",
-  "accent": "#39251e",
-  "muted": "#9e9a9c"
+  "primary": "#090e0d",
+  "secondary": "#c04338",
+  "accent": "#786c60",
+  "muted": "#715e5c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e8382b');
-    root.style.setProperty('--color-secondary', '#d6ded0');
-    root.style.setProperty('--color-accent', '#39251e');
-    root.style.setProperty('--color-muted', '#9e9a9c');
+        root.style.setProperty('--color-primary', '#090e0d');
+    root.style.setProperty('--color-secondary', '#c04338');
+    root.style.setProperty('--color-accent', '#786c60');
+    root.style.setProperty('--color-muted', '#715e5c');
 }
 
 // Auto-apply colors when this script loads
