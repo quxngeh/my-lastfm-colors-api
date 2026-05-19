@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Midas Touch" by Kiss of Life
-// Generated: 5/18/2026, 10:23:43 AM
+// Song: "Drama" by aespa
+// Generated: 5/19/2026, 10:13:43 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#bc666e",
-  "secondary": "#fad6d8",
-  "accent": "#f5b6bf",
-  "muted": "#6a2b2f"
+  "primary": "#e10615",
+  "secondary": "#301c22",
+  "accent": "#d2a2aa",
+  "muted": "#c48c84"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#bc666e');
-    root.style.setProperty('--color-secondary', '#fad6d8');
-    root.style.setProperty('--color-accent', '#f5b6bf');
-    root.style.setProperty('--color-muted', '#6a2b2f');
+        root.style.setProperty('--color-primary', '#e10615');
+    root.style.setProperty('--color-secondary', '#301c22');
+    root.style.setProperty('--color-accent', '#d2a2aa');
+    root.style.setProperty('--color-muted', '#c48c84');
 }
 
 // Auto-apply colors when this script loads
