@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "RADIO" by Frost Children & Kim Petras
-// Generated: 5/23/2026, 9:30:47 AM
+// Song: "BEBE" by STAYC
+// Generated: 5/24/2026, 9:33:28 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#917570",
-  "secondary": "#d7d8dc",
-  "accent": "#361113",
-  "muted": "#ceb8be"
+  "primary": "#679070",
+  "secondary": "#494a49",
+  "accent": "#d6d8d6",
+  "muted": "#acd0bc"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#917570');
-    root.style.setProperty('--color-secondary', '#d7d8dc');
-    root.style.setProperty('--color-accent', '#361113');
-    root.style.setProperty('--color-muted', '#ceb8be');
+        root.style.setProperty('--color-primary', '#679070');
+    root.style.setProperty('--color-secondary', '#494a49');
+    root.style.setProperty('--color-accent', '#d6d8d6');
+    root.style.setProperty('--color-muted', '#acd0bc');
 }
 
 // Auto-apply colors when this script loads
