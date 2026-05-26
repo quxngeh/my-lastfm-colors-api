@@ -1,6 +1,6 @@
 // Auto-generated Framer color updater
 // Song: "WOULD YOU RUN" by TRI.BE
-// Generated: 5/25/2026, 10:27:04 AM
+// Generated: 5/26/2026, 10:19:38 AM
 
 // For use in Framer code components or override functions
 export const colors = {

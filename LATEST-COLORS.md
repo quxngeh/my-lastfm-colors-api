@@ -1,7 +1,7 @@
 # 🎨 Your Latest Color Palette
 
 **Song**: "WOULD YOU RUN" by TRI.BE  
-**Generated**: 5/25/2026, 10:27:04 AM  
+**Generated**: 5/26/2026, 10:19:38 AM  
 **Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/3fec72078725a2c019205fcf67d98187.jpg)
 
 ## 🎨 Color Palette
