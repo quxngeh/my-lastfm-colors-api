@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Mr.Mr." by Girls' Generation
-// Generated: 5/29/2026, 10:16:18 AM
+// Song: "Whiplash" by aespa
+// Generated: 5/30/2026, 9:33:55 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#c1886b",
-  "secondary": "#16233a",
-  "accent": "#95224a",
-  "muted": "#d7d2dd"
+  "primary": "#0f0e0f",
+  "secondary": "#b2b1b0",
+  "accent": "#7a7c84",
+  "muted": "#6c8c4c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#c1886b');
-    root.style.setProperty('--color-secondary', '#16233a');
-    root.style.setProperty('--color-accent', '#95224a');
-    root.style.setProperty('--color-muted', '#d7d2dd');
+        root.style.setProperty('--color-primary', '#0f0e0f');
+    root.style.setProperty('--color-secondary', '#b2b1b0');
+    root.style.setProperty('--color-accent', '#7a7c84');
+    root.style.setProperty('--color-muted', '#6c8c4c');
 }
 
 // Auto-apply colors when this script loads
