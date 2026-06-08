@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "TILT" by Red Velvet - IRENE & SEULGI
-// Generated: 6/7/2026, 9:58:41 AM
+// Song: "Drama" by aespa
+// Generated: 6/8/2026, 10:29:28 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#08090a",
-  "secondary": "#cec4c2",
-  "accent": "#9f4f4e",
-  "muted": "#6e7988"
+  "primary": "#e10615",
+  "secondary": "#301c22",
+  "accent": "#d2a2aa",
+  "muted": "#c48c84"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#08090a');
-    root.style.setProperty('--color-secondary', '#cec4c2');
-    root.style.setProperty('--color-accent', '#9f4f4e');
-    root.style.setProperty('--color-muted', '#6e7988');
+        root.style.setProperty('--color-primary', '#e10615');
+    root.style.setProperty('--color-secondary', '#301c22');
+    root.style.setProperty('--color-accent', '#d2a2aa');
+    root.style.setProperty('--color-muted', '#c48c84');
 }
 
 // Auto-apply colors when this script loads
