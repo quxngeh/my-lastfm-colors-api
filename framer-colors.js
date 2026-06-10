@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Pull Up" by Summer Walker
-// Generated: 6/9/2026, 10:10:57 AM
+// Song: "TING TING TING" by ITZY
+// Generated: 6/10/2026, 10:22:18 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#49585a",
-  "secondary": "#d1cacb",
-  "accent": "#84a4bb",
-  "muted": "#a0b9c2"
+  "primary": "#1c2844",
+  "secondary": "#cea88c",
+  "accent": "#77b8a0",
+  "muted": "#5172ca"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#49585a');
-    root.style.setProperty('--color-secondary', '#d1cacb');
-    root.style.setProperty('--color-accent', '#84a4bb');
-    root.style.setProperty('--color-muted', '#a0b9c2');
+        root.style.setProperty('--color-primary', '#1c2844');
+    root.style.setProperty('--color-secondary', '#cea88c');
+    root.style.setProperty('--color-accent', '#77b8a0');
+    root.style.setProperty('--color-muted', '#5172ca');
 }
 
 // Auto-apply colors when this script loads
