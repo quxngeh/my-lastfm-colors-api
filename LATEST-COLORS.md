@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "Persona" by tripleS  
-**Generated**: 6/11/2026, 10:28:50 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/4ebaebca11cd2f73e6af8a06a45f0261.gif)
+**Song**: "GRIEF IS THE PRICE YOU PAY FOR LOVE" by Phùng Khánh Linh  
+**Generated**: 6/12/2026, 10:27:02 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/d60bb0c99aaad4ab7beb085903cea1fb.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#323232` (Main brand color, CTAs)
-- **Secondary**: `#cac9d0` (Dark backgrounds, text)  
-- **Accent**: `#9396a2` (Highlights, buttons)
-- **Muted**: `#878896` (Subtle elements, borders)
+- **Primary**: `#222d35` (Main brand color, CTAs)
+- **Secondary**: `#b4c0d0` (Dark backgrounds, text)  
+- **Accent**: `#7c8ba3` (Highlights, buttons)
+- **Muted**: `#968887` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #323232
-secondary: #cac9d0
-accent: #9396a2
-muted: #878896
+primary: #222d35
+secondary: #b4c0d0
+accent: #7c8ba3
+muted: #968887
 ```
 
 ### Method 3: Programmatic (Advanced)
