@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "GRIEF IS THE PRICE YOU PAY FOR LOVE" by Phùng Khánh Linh
-// Generated: 6/12/2026, 10:27:02 AM
+// Song: "Holy Moly" by IVE
+// Generated: 6/13/2026, 9:57:41 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#222d35",
-  "secondary": "#b4c0d0",
-  "accent": "#7c8ba3",
-  "muted": "#968887"
+  "primary": "#e14374",
+  "secondary": "#422b31",
+  "accent": "#efcad9",
+  "muted": "#f380c5"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#222d35');
-    root.style.setProperty('--color-secondary', '#b4c0d0');
-    root.style.setProperty('--color-accent', '#7c8ba3');
-    root.style.setProperty('--color-muted', '#968887');
+        root.style.setProperty('--color-primary', '#e14374');
+    root.style.setProperty('--color-secondary', '#422b31');
+    root.style.setProperty('--color-accent', '#efcad9');
+    root.style.setProperty('--color-muted', '#f380c5');
 }
 
 // Auto-apply colors when this script loads
