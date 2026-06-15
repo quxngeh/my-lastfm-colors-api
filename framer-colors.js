@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "IN & OUT (with RuRu)" by Park Moonchi
-// Generated: 6/14/2026, 10:07:31 AM
+// Song: "BLACKHOLE" by IVE
+// Generated: 6/15/2026, 10:57:45 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e0588a",
-  "secondary": "#3b6c6b",
-  "accent": "#eabc6b",
-  "muted": "#ac4423"
+  "primary": "#061d54",
+  "secondary": "#c0dcf0",
+  "accent": "#748bb2",
+  "muted": "#6b85af"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e0588a');
-    root.style.setProperty('--color-secondary', '#3b6c6b');
-    root.style.setProperty('--color-accent', '#eabc6b');
-    root.style.setProperty('--color-muted', '#ac4423');
+        root.style.setProperty('--color-primary', '#061d54');
+    root.style.setProperty('--color-secondary', '#c0dcf0');
+    root.style.setProperty('--color-accent', '#748bb2');
+    root.style.setProperty('--color-muted', '#6b85af');
 }
 
 // Auto-apply colors when this script loads
