@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Like A Flower" by Irene
-// Generated: 6/16/2026, 10:33:17 AM
+// Song: "Sports car" by Tate McRae
+// Generated: 6/17/2026, 10:30:07 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#72868e",
-  "secondary": "#d8e3e0",
-  "accent": "#b9cfcc",
-  "muted": "#a5c2cc"
+  "primary": "#3a322a",
+  "secondary": "#9b775b",
+  "accent": "#b2a69c",
+  "muted": "#84847e"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#72868e');
-    root.style.setProperty('--color-secondary', '#d8e3e0');
-    root.style.setProperty('--color-accent', '#b9cfcc');
-    root.style.setProperty('--color-muted', '#a5c2cc');
+        root.style.setProperty('--color-primary', '#3a322a');
+    root.style.setProperty('--color-secondary', '#9b775b');
+    root.style.setProperty('--color-accent', '#b2a69c');
+    root.style.setProperty('--color-muted', '#84847e');
 }
 
 // Auto-apply colors when this script loads
