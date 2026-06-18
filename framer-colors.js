@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Sports car" by Tate McRae
-// Generated: 6/17/2026, 10:30:07 AM
+// Song: "Airplane pt.2" by BTS
+// Generated: 6/18/2026, 10:28:02 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#3a322a",
-  "secondary": "#9b775b",
-  "accent": "#b2a69c",
-  "muted": "#84847e"
+  "primary": "#cfb6d7",
+  "secondary": "#f2b3c5",
+  "accent": "#f7e9f9",
+  "muted": "#a9c4ea"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#3a322a');
-    root.style.setProperty('--color-secondary', '#9b775b');
-    root.style.setProperty('--color-accent', '#b2a69c');
-    root.style.setProperty('--color-muted', '#84847e');
+        root.style.setProperty('--color-primary', '#cfb6d7');
+    root.style.setProperty('--color-secondary', '#f2b3c5');
+    root.style.setProperty('--color-accent', '#f7e9f9');
+    root.style.setProperty('--color-muted', '#a9c4ea');
 }
 
 // Auto-apply colors when this script loads
