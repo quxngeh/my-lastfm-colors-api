@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Airplane pt.2" by BTS
-// Generated: 6/18/2026, 10:28:02 AM
+// Song: "BYULHARANG (160504 + 170607)" by CHUNG HA
+// Generated: 6/19/2026, 10:28:29 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#cfb6d7",
-  "secondary": "#f2b3c5",
-  "accent": "#f7e9f9",
-  "muted": "#a9c4ea"
+  "primary": "#9ca4a6",
+  "secondary": "#124167",
+  "accent": "#7d5d3d",
+  "muted": "#59372d"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#cfb6d7');
-    root.style.setProperty('--color-secondary', '#f2b3c5');
-    root.style.setProperty('--color-accent', '#f7e9f9');
-    root.style.setProperty('--color-muted', '#a9c4ea');
+        root.style.setProperty('--color-primary', '#9ca4a6');
+    root.style.setProperty('--color-secondary', '#124167');
+    root.style.setProperty('--color-accent', '#7d5d3d');
+    root.style.setProperty('--color-muted', '#59372d');
 }
 
 // Auto-apply colors when this script loads
