@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "Purple lace bra" by Tate McRae  
-**Generated**: 6/20/2026, 9:59:54 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/a4dfdd7409ef99e80539d993f07e37d0.png)
+**Song**: "ExtraL" by JENNIE & Doechii  
+**Generated**: 6/21/2026, 10:11:39 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/492fe4e9830c175457cb43c666d065b4.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#6578a8` (Main brand color, CTAs)
-- **Secondary**: `#1a1c23` (Dark backgrounds, text)  
-- **Accent**: `#64565f` (Highlights, buttons)
-- **Muted**: `#445474` (Subtle elements, borders)
+- **Primary**: `#090e0d` (Main brand color, CTAs)
+- **Secondary**: `#c04338` (Dark backgrounds, text)  
+- **Accent**: `#786c60` (Highlights, buttons)
+- **Muted**: `#715e5c` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #6578a8
-secondary: #1a1c23
-accent: #64565f
-muted: #445474
+primary: #090e0d
+secondary: #c04338
+accent: #786c60
+muted: #715e5c
 ```
 
 ### Method 3: Programmatic (Advanced)
