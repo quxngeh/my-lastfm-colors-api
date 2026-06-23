@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "4 Walls" by f(x)
-// Generated: 6/22/2026, 10:48:15 AM
+// Song: "Party O'Clock" by NMIXX
+// Generated: 6/23/2026, 10:12:28 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e64c20",
-  "secondary": "#8788be",
-  "accent": "#4d3b7d",
-  "muted": "#dc9474"
+  "primary": "#233034",
+  "secondary": "#bcc4c5",
+  "accent": "#6a84a9",
+  "muted": "#75a7bb"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e64c20');
-    root.style.setProperty('--color-secondary', '#8788be');
-    root.style.setProperty('--color-accent', '#4d3b7d');
-    root.style.setProperty('--color-muted', '#dc9474');
+        root.style.setProperty('--color-primary', '#233034');
+    root.style.setProperty('--color-secondary', '#bcc4c5');
+    root.style.setProperty('--color-accent', '#6a84a9');
+    root.style.setProperty('--color-muted', '#75a7bb');
 }
 
 // Auto-apply colors when this script loads
