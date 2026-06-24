@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Party O'Clock" by NMIXX
-// Generated: 6/23/2026, 10:12:28 AM
+// Song: "Heart Drop" by RESCENE
+// Generated: 6/24/2026, 10:02:14 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#233034",
-  "secondary": "#bcc4c5",
-  "accent": "#6a84a9",
-  "muted": "#75a7bb"
+  "primary": "#e2d3d6",
+  "secondary": "#3e3539",
+  "accent": "#b35f7b",
+  "muted": "#907164"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#233034');
-    root.style.setProperty('--color-secondary', '#bcc4c5');
-    root.style.setProperty('--color-accent', '#6a84a9');
-    root.style.setProperty('--color-muted', '#75a7bb');
+        root.style.setProperty('--color-primary', '#e2d3d6');
+    root.style.setProperty('--color-secondary', '#3e3539');
+    root.style.setProperty('--color-accent', '#b35f7b');
+    root.style.setProperty('--color-muted', '#907164');
 }
 
 // Auto-apply colors when this script loads
