@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Heart Drop" by RESCENE
-// Generated: 6/24/2026, 10:02:14 AM
+// Song: "Sarang" by Chawool
+// Generated: 6/25/2026, 10:00:42 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e2d3d6",
-  "secondary": "#3e3539",
-  "accent": "#b35f7b",
-  "muted": "#907164"
+  "primary": "#c0a696",
+  "secondary": "#395441",
+  "accent": "#9f6638",
+  "muted": "#92514e"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e2d3d6');
-    root.style.setProperty('--color-secondary', '#3e3539');
-    root.style.setProperty('--color-accent', '#b35f7b');
-    root.style.setProperty('--color-muted', '#907164');
+        root.style.setProperty('--color-primary', '#c0a696');
+    root.style.setProperty('--color-secondary', '#395441');
+    root.style.setProperty('--color-accent', '#9f6638');
+    root.style.setProperty('--color-muted', '#92514e');
 }
 
 // Auto-apply colors when this script loads
