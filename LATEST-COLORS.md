@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "Take Me to Nirvana (feat. Vinida Weng)" by TOMORROW X TOGETHER  
-**Generated**: 6/27/2026, 9:39:25 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/4c96a9a951d09fd8b77f962b95a3b5e2.jpg)
+**Song**: "Knock Knock" by KickFlip  
+**Generated**: 6/28/2026, 9:57:56 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/1de13cb79c9eb5d47e2a933c8890a702.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#f81e91` (Main brand color, CTAs)
-- **Secondary**: `#4c2837` (Dark backgrounds, text)  
-- **Accent**: `#a52a67` (Highlights, buttons)
-- **Muted**: `#8f0e4a` (Subtle elements, borders)
+- **Primary**: `#483d39` (Main brand color, CTAs)
+- **Secondary**: `#d9c0bc` (Dark backgrounds, text)  
+- **Accent**: `#7b8da7` (Highlights, buttons)
+- **Muted**: `#a0a8aa` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #f81e91
-secondary: #4c2837
-accent: #a52a67
-muted: #8f0e4a
+primary: #483d39
+secondary: #d9c0bc
+accent: #7b8da7
+muted: #a0a8aa
 ```
 
 ### Method 3: Programmatic (Advanced)
