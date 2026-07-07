@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "ANYTHING BUT LOVE" by Tate McRae
-// Generated: 7/6/2026, 12:32:14 PM
+// Song: "러시안 룰렛 Russian Roulette" by Red Velvet
+// Generated: 7/7/2026, 11:34:46 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#6578a8",
-  "secondary": "#1a1c23",
-  "accent": "#64565f",
-  "muted": "#445474"
+  "primary": "#d09c71",
+  "secondary": "#83350e",
+  "accent": "#ebd7d0",
+  "muted": "#685848"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#6578a8');
-    root.style.setProperty('--color-secondary', '#1a1c23');
-    root.style.setProperty('--color-accent', '#64565f');
-    root.style.setProperty('--color-muted', '#445474');
+        root.style.setProperty('--color-primary', '#d09c71');
+    root.style.setProperty('--color-secondary', '#83350e');
+    root.style.setProperty('--color-accent', '#ebd7d0');
+    root.style.setProperty('--color-muted', '#685848');
 }
 
 // Auto-apply colors when this script loads
