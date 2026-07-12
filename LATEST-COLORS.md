@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "Joshua Tree" by Demi Lovato  
-**Generated**: 7/11/2026, 10:07:07 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/e065824798f1dfc4009e95a03cd62d9f.png)
+**Song**: "Lost In Love" by Girls' Generation  
+**Generated**: 7/12/2026, 10:16:04 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/a0c8c478c517e79ff3a67a7153555cf1.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#544c4b` (Main brand color, CTAs)
-- **Secondary**: `#c7a799` (Dark backgrounds, text)  
-- **Accent**: `#a4b3b4` (Highlights, buttons)
-- **Muted**: `#999fac` (Subtle elements, borders)
+- **Primary**: `#c1474e` (Main brand color, CTAs)
+- **Secondary**: `#292f53` (Dark backgrounds, text)  
+- **Accent**: `#e2e0d0` (Highlights, buttons)
+- **Muted**: `#ab82d7` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #544c4b
-secondary: #c7a799
-accent: #a4b3b4
-muted: #999fac
+primary: #c1474e
+secondary: #292f53
+accent: #e2e0d0
+muted: #ab82d7
 ```
 
 ### Method 3: Programmatic (Advanced)
