@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Raining Men (feat. Nicki Minaj)" by Rihanna
-// Generated: 7/21/2026, 10:53:38 AM
+// Song: "Accendio" by IVE
+// Generated: 7/22/2026, 10:54:53 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e17d86",
-  "secondary": "#1f0881",
-  "accent": "#aa1172",
-  "muted": "#fbbca0"
+  "primary": "#d7d3e7",
+  "secondary": "#16b5e1",
+  "accent": "#d7f62c",
+  "muted": "#75bcd9"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e17d86');
-    root.style.setProperty('--color-secondary', '#1f0881');
-    root.style.setProperty('--color-accent', '#aa1172');
-    root.style.setProperty('--color-muted', '#fbbca0');
+        root.style.setProperty('--color-primary', '#d7d3e7');
+    root.style.setProperty('--color-secondary', '#16b5e1');
+    root.style.setProperty('--color-accent', '#d7f62c');
+    root.style.setProperty('--color-muted', '#75bcd9');
 }
 
 // Auto-apply colors when this script loads
