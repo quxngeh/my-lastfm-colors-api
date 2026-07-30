@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Never Enough" by Rochelle Jordan
-// Generated: 7/29/2026, 11:11:13 AM
+// Song: "More More More" by Kylie Minogue
+// Generated: 7/30/2026, 10:55:15 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#161717",
-  "secondary": "#bdbfc3",
-  "accent": "#848c91",
-  "muted": "#81848c"
+  "primary": "#e3e4e2",
+  "secondary": "#37393d",
+  "accent": "#ac7e69",
+  "muted": "#866559"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#161717');
-    root.style.setProperty('--color-secondary', '#bdbfc3');
-    root.style.setProperty('--color-accent', '#848c91');
-    root.style.setProperty('--color-muted', '#81848c');
+        root.style.setProperty('--color-primary', '#e3e4e2');
+    root.style.setProperty('--color-secondary', '#37393d');
+    root.style.setProperty('--color-accent', '#ac7e69');
+    root.style.setProperty('--color-muted', '#866559');
 }
 
 // Auto-apply colors when this script loads
