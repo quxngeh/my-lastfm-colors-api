@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "More More More" by Kylie Minogue
-// Generated: 7/30/2026, 10:55:15 AM
+// Song: "Diablo" by tripleS
+// Generated: 7/31/2026, 11:14:04 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e3e4e2",
-  "secondary": "#37393d",
-  "accent": "#ac7e69",
-  "muted": "#866559"
+  "primary": "#323232",
+  "secondary": "#cac9d0",
+  "accent": "#9396a2",
+  "muted": "#878896"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e3e4e2');
-    root.style.setProperty('--color-secondary', '#37393d');
-    root.style.setProperty('--color-accent', '#ac7e69');
-    root.style.setProperty('--color-muted', '#866559');
+        root.style.setProperty('--color-primary', '#323232');
+    root.style.setProperty('--color-secondary', '#cac9d0');
+    root.style.setProperty('--color-accent', '#9396a2');
+    root.style.setProperty('--color-muted', '#878896');
 }
 
 // Auto-apply colors when this script loads
