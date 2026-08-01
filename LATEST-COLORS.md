@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "Diablo" by tripleS  
-**Generated**: 7/31/2026, 11:14:04 AM  
-**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/4ebaebca11cd2f73e6af8a06a45f0261.gif)
+**Song**: "YoYo" by RESCENE  
+**Generated**: 8/1/2026, 10:23:35 AM  
+**Album Art**: [View Image](https://lastfm.freetls.fastly.net/i/u/300x300/b5a8d9a176ab517cbb94d501f4833b52.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#323232` (Main brand color, CTAs)
-- **Secondary**: `#cac9d0` (Dark backgrounds, text)  
-- **Accent**: `#9396a2` (Highlights, buttons)
-- **Muted**: `#878896` (Subtle elements, borders)
+- **Primary**: `#e96eca` (Main brand color, CTAs)
+- **Secondary**: `#f1e6f0` (Dark backgrounds, text)  
+- **Accent**: `#e9a5da` (Highlights, buttons)
+- **Muted**: `#fa7ae4` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #323232
-secondary: #cac9d0
-accent: #9396a2
-muted: #878896
+primary: #e96eca
+secondary: #f1e6f0
+accent: #e9a5da
+muted: #fa7ae4
 ```
 
 ### Method 3: Programmatic (Advanced)
