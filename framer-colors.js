@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "White Trash V.H.S." by Coma Cinema
-// Generated: 8/9/2026, 9:25:29 AM
+// Song: "Why is She Still Here?" by Reneé Rapp
+// Generated: 8/10/2026, 10:05:21 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#db942e",
-  "secondary": "#22120b",
-  "accent": "#752a15",
-  "muted": "#854920"
+  "primary": "#cea897",
+  "secondary": "#6f4028",
+  "accent": "#784944",
+  "muted": "#6b5447"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#db942e');
-    root.style.setProperty('--color-secondary', '#22120b');
-    root.style.setProperty('--color-accent', '#752a15');
-    root.style.setProperty('--color-muted', '#854920');
+        root.style.setProperty('--color-primary', '#cea897');
+    root.style.setProperty('--color-secondary', '#6f4028');
+    root.style.setProperty('--color-accent', '#784944');
+    root.style.setProperty('--color-muted', '#6b5447');
 }
 
 // Auto-apply colors when this script loads
