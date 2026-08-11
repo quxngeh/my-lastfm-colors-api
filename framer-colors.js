@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Why is She Still Here?" by Reneé Rapp
-// Generated: 8/10/2026, 10:05:21 AM
+// Song: "UNNATURAL" by WJSN
+// Generated: 8/11/2026, 9:46:09 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#cea897",
-  "secondary": "#6f4028",
-  "accent": "#784944",
-  "muted": "#6b5447"
+  "primary": "#d25d54",
+  "secondary": "#f1cdc9",
+  "accent": "#e7a3b7",
+  "muted": "#e39e80"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#cea897');
-    root.style.setProperty('--color-secondary', '#6f4028');
-    root.style.setProperty('--color-accent', '#784944');
-    root.style.setProperty('--color-muted', '#6b5447');
+        root.style.setProperty('--color-primary', '#d25d54');
+    root.style.setProperty('--color-secondary', '#f1cdc9');
+    root.style.setProperty('--color-accent', '#e7a3b7');
+    root.style.setProperty('--color-muted', '#e39e80');
 }
 
 // Auto-apply colors when this script loads
