@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "UNNATURAL" by WJSN  
-**Generated**: 8/11/2026, 9:46:09 AM  
-**Album Art**: [View Image](https://lastfm-img.freetls.fastly.net/i/u/300x300/1f1f4de4eb85fd65f216b7aef922db99.jpg)
+**Song**: "Take Me to Nirvana (feat. Vinida Weng)" by TOMORROW X TOGETHER  
+**Generated**: 8/12/2026, 9:50:50 AM  
+**Album Art**: [View Image](https://lastfm-img.freetls.fastly.net/i/u/300x300/4c96a9a951d09fd8b77f962b95a3b5e2.jpg)
 
 ## 🎨 Color Palette
-- **Primary**: `#d25d54` (Main brand color, CTAs)
-- **Secondary**: `#f1cdc9` (Dark backgrounds, text)  
-- **Accent**: `#e7a3b7` (Highlights, buttons)
-- **Muted**: `#e39e80` (Subtle elements, borders)
+- **Primary**: `#f81e91` (Main brand color, CTAs)
+- **Secondary**: `#4c2837` (Dark backgrounds, text)  
+- **Accent**: `#a52a67` (Highlights, buttons)
+- **Muted**: `#8f0e4a` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #d25d54
-secondary: #f1cdc9
-accent: #e7a3b7
-muted: #e39e80
+primary: #f81e91
+secondary: #4c2837
+accent: #a52a67
+muted: #8f0e4a
 ```
 
 ### Method 3: Programmatic (Advanced)
