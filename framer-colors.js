@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Take Me to Nirvana (feat. Vinida Weng)" by TOMORROW X TOGETHER
-// Generated: 8/12/2026, 9:50:50 AM
+// Song: "METRONOME" by izna
+// Generated: 8/13/2026, 9:50:48 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#f81e91",
-  "secondary": "#4c2837",
-  "accent": "#a52a67",
-  "muted": "#8f0e4a"
+  "primary": "#e091b8",
+  "secondary": "#7a3058",
+  "accent": "#605188",
+  "muted": "#c0494e"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#f81e91');
-    root.style.setProperty('--color-secondary', '#4c2837');
-    root.style.setProperty('--color-accent', '#a52a67');
-    root.style.setProperty('--color-muted', '#8f0e4a');
+        root.style.setProperty('--color-primary', '#e091b8');
+    root.style.setProperty('--color-secondary', '#7a3058');
+    root.style.setProperty('--color-accent', '#605188');
+    root.style.setProperty('--color-muted', '#c0494e');
 }
 
 // Auto-apply colors when this script loads
