@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Cameo Love" by tripleS
-// Generated: 8/17/2026, 9:26:33 AM
+// Song: "MANIAC" by VIVIZ
+// Generated: 8/18/2026, 9:18:45 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#f1f1f1",
-  "secondary": "#a8a8a8",
-  "accent": "#bcbcbc",
-  "muted": "#c4c4c4"
+  "primary": "#061217",
+  "secondary": "#1ec3dc",
+  "accent": "#085363",
+  "muted": "#218d8c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#f1f1f1');
-    root.style.setProperty('--color-secondary', '#a8a8a8');
-    root.style.setProperty('--color-accent', '#bcbcbc');
-    root.style.setProperty('--color-muted', '#c4c4c4');
+        root.style.setProperty('--color-primary', '#061217');
+    root.style.setProperty('--color-secondary', '#1ec3dc');
+    root.style.setProperty('--color-accent', '#085363');
+    root.style.setProperty('--color-muted', '#218d8c');
 }
 
 // Auto-apply colors when this script loads
