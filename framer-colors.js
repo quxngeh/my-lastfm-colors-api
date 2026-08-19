@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "MANIAC" by VIVIZ
-// Generated: 8/18/2026, 9:18:45 AM
+// Song: "Mr.Mr." by Girls' Generation
+// Generated: 8/19/2026, 9:19:30 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#061217",
-  "secondary": "#1ec3dc",
-  "accent": "#085363",
-  "muted": "#218d8c"
+  "primary": "#aa6362",
+  "secondary": "#18253b",
+  "accent": "#e1c7a5",
+  "muted": "#bfa1c5"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#061217');
-    root.style.setProperty('--color-secondary', '#1ec3dc');
-    root.style.setProperty('--color-accent', '#085363');
-    root.style.setProperty('--color-muted', '#218d8c');
+        root.style.setProperty('--color-primary', '#aa6362');
+    root.style.setProperty('--color-secondary', '#18253b');
+    root.style.setProperty('--color-accent', '#e1c7a5');
+    root.style.setProperty('--color-muted', '#bfa1c5');
 }
 
 // Auto-apply colors when this script loads
