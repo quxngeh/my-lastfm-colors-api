@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "AVOCADO" by Jooha
-// Generated: 8/24/2026, 9:32:47 AM
+// Song: "Hot & Sexy" by Zara Larsson
+// Generated: 8/25/2026, 9:21:43 AM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#ececec",
-  "secondary": "#f4f4f4",
-  "accent": "#fcfcfc",
-  "muted": "#f0ecf8"
+  "primary": "#3b3a27",
+  "secondary": "#d0ac8e",
+  "accent": "#2678ab",
+  "muted": "#87afb8"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#ececec');
-    root.style.setProperty('--color-secondary', '#f4f4f4');
-    root.style.setProperty('--color-accent', '#fcfcfc');
-    root.style.setProperty('--color-muted', '#f0ecf8');
+        root.style.setProperty('--color-primary', '#3b3a27');
+    root.style.setProperty('--color-secondary', '#d0ac8e');
+    root.style.setProperty('--color-accent', '#2678ab');
+    root.style.setProperty('--color-muted', '#87afb8');
 }
 
 // Auto-apply colors when this script loads
