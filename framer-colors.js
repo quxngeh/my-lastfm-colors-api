@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "IS THIS LOVE" by XG
-// Generated: 8/30/2026, 2:01:21 PM
+// Song: "ZEN" by Jennie
+// Generated: 8/31/2026, 4:25:54 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#080808",
-  "secondary": "#a1a1a1",
-  "accent": "#747474",
-  "muted": "#6c6c6c"
+  "primary": "#0a0e0d",
+  "secondary": "#c54339",
+  "accent": "#805c60",
+  "muted": "#6c4454"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#080808');
-    root.style.setProperty('--color-secondary', '#a1a1a1');
-    root.style.setProperty('--color-accent', '#747474');
-    root.style.setProperty('--color-muted', '#6c6c6c');
+        root.style.setProperty('--color-primary', '#0a0e0d');
+    root.style.setProperty('--color-secondary', '#c54339');
+    root.style.setProperty('--color-accent', '#805c60');
+    root.style.setProperty('--color-muted', '#6c4454');
 }
 
 // Auto-apply colors when this script loads
