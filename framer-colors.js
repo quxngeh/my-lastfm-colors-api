@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Red light sign, but we go" by NMIXX
-// Generated: 9/3/2026, 1:02:44 PM
+// Song: "DRIP" by BABYMONSTER
+// Generated: 9/4/2026, 12:57:56 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#423c44",
-  "secondary": "#c6d2dd",
-  "accent": "#90b2d3",
-  "muted": "#8397b4"
+  "primary": "#36047c",
+  "secondary": "#f613ab",
+  "accent": "#800990",
+  "muted": "#5b0486"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#423c44');
-    root.style.setProperty('--color-secondary', '#c6d2dd');
-    root.style.setProperty('--color-accent', '#90b2d3');
-    root.style.setProperty('--color-muted', '#8397b4');
+        root.style.setProperty('--color-primary', '#36047c');
+    root.style.setProperty('--color-secondary', '#f613ab');
+    root.style.setProperty('--color-accent', '#800990');
+    root.style.setProperty('--color-muted', '#5b0486');
 }
 
 // Auto-apply colors when this script loads
