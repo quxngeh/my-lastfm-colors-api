@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Holding a Leech" by Jane Remover
-// Generated: 9/9/2026, 1:11:33 PM
+// Song: "FOCUS" by Hearts2Hearts
+// Generated: 9/10/2026, 1:09:24 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#b1a8a0",
-  "secondary": "#262b31",
-  "accent": "#72563b",
-  "muted": "#57402d"
+  "primary": "#4f4846",
+  "secondary": "#e4b8c2",
+  "accent": "#91baef",
+  "muted": "#7986c0"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#b1a8a0');
-    root.style.setProperty('--color-secondary', '#262b31');
-    root.style.setProperty('--color-accent', '#72563b');
-    root.style.setProperty('--color-muted', '#57402d');
+        root.style.setProperty('--color-primary', '#4f4846');
+    root.style.setProperty('--color-secondary', '#e4b8c2');
+    root.style.setProperty('--color-accent', '#91baef');
+    root.style.setProperty('--color-muted', '#7986c0');
 }
 
 // Auto-apply colors when this script loads
