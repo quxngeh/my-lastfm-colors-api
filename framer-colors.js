@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Rico" by NMIXX
-// Generated: 9/11/2026, 1:03:11 PM
+// Song: "C'mon (feat. amine)" by Jini
+// Generated: 9/12/2026, 12:26:45 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#506a92",
-  "secondary": "#bfc4d2",
-  "accent": "#19232d",
-  "muted": "#a0b5cc"
+  "primary": "#0a0b0b",
+  "secondary": "#d5d5d6",
+  "accent": "#79858b",
+  "muted": "#6f7884"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#506a92');
-    root.style.setProperty('--color-secondary', '#bfc4d2');
-    root.style.setProperty('--color-accent', '#19232d');
-    root.style.setProperty('--color-muted', '#a0b5cc');
+        root.style.setProperty('--color-primary', '#0a0b0b');
+    root.style.setProperty('--color-secondary', '#d5d5d6');
+    root.style.setProperty('--color-accent', '#79858b');
+    root.style.setProperty('--color-muted', '#6f7884');
 }
 
 // Auto-apply colors when this script loads
