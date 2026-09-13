@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "C'mon (feat. amine)" by Jini
-// Generated: 9/12/2026, 12:26:45 PM
+// Song: "OLD TECHNOLOGY" by Slayyyter
+// Generated: 9/13/2026, 1:29:15 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#0a0b0b",
-  "secondary": "#d5d5d6",
-  "accent": "#79858b",
-  "muted": "#6f7884"
+  "primary": "#619bb7",
+  "secondary": "#1d1d17",
+  "accent": "#c9696a",
+  "muted": "#054460"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#0a0b0b');
-    root.style.setProperty('--color-secondary', '#d5d5d6');
-    root.style.setProperty('--color-accent', '#79858b');
-    root.style.setProperty('--color-muted', '#6f7884');
+        root.style.setProperty('--color-primary', '#619bb7');
+    root.style.setProperty('--color-secondary', '#1d1d17');
+    root.style.setProperty('--color-accent', '#c9696a');
+    root.style.setProperty('--color-muted', '#054460');
 }
 
 // Auto-apply colors when this script loads
