@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Nocturne" by ITZY
-// Generated: 9/15/2026, 1:54:38 PM
+// Song: "Mr.Mr." by Girls' Generation
+// Generated: 9/16/2026, 1:47:04 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#383735",
-  "secondary": "#bfbcba",
-  "accent": "#9c9c97",
-  "muted": "#989494"
+  "primary": "#c1886b",
+  "secondary": "#16233a",
+  "accent": "#95224a",
+  "muted": "#d7d2dd"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#383735');
-    root.style.setProperty('--color-secondary', '#bfbcba');
-    root.style.setProperty('--color-accent', '#9c9c97');
-    root.style.setProperty('--color-muted', '#989494');
+        root.style.setProperty('--color-primary', '#c1886b');
+    root.style.setProperty('--color-secondary', '#16233a');
+    root.style.setProperty('--color-accent', '#95224a');
+    root.style.setProperty('--color-muted', '#d7d2dd');
 }
 
 // Auto-apply colors when this script loads
