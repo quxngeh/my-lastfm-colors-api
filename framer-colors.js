@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Mr.Mr." by Girls' Generation
-// Generated: 9/16/2026, 1:47:04 PM
+// Song: "Ain't In LA" by ADÉLA
+// Generated: 9/17/2026, 1:49:45 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#c1886b",
-  "secondary": "#16233a",
-  "accent": "#95224a",
-  "muted": "#d7d2dd"
+  "primary": "#e6d5d5",
+  "secondary": "#40141c",
+  "accent": "#9f2a42",
+  "muted": "#b96f69"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#c1886b');
-    root.style.setProperty('--color-secondary', '#16233a');
-    root.style.setProperty('--color-accent', '#95224a');
-    root.style.setProperty('--color-muted', '#d7d2dd');
+        root.style.setProperty('--color-primary', '#e6d5d5');
+    root.style.setProperty('--color-secondary', '#40141c');
+    root.style.setProperty('--color-accent', '#9f2a42');
+    root.style.setProperty('--color-muted', '#b96f69');
 }
 
 // Auto-apply colors when this script loads
