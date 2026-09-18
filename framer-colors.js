@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Ain't In LA" by ADÉLA
-// Generated: 9/17/2026, 1:49:45 PM
+// Song: "Sài Gòn Khóc Hộ Em" by Vũ Thanh Vân
+// Generated: 9/18/2026, 1:11:55 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e6d5d5",
-  "secondary": "#40141c",
-  "accent": "#9f2a42",
-  "muted": "#b96f69"
+  "primary": "#778862",
+  "secondary": "#191b21",
+  "accent": "#cbbeb1",
+  "muted": "#aeb7b1"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e6d5d5');
-    root.style.setProperty('--color-secondary', '#40141c');
-    root.style.setProperty('--color-accent', '#9f2a42');
-    root.style.setProperty('--color-muted', '#b96f69');
+        root.style.setProperty('--color-primary', '#778862');
+    root.style.setProperty('--color-secondary', '#191b21');
+    root.style.setProperty('--color-accent', '#cbbeb1');
+    root.style.setProperty('--color-muted', '#aeb7b1');
 }
 
 // Auto-apply colors when this script loads
