@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Sài Gòn Khóc Hộ Em" by Vũ Thanh Vân
-// Generated: 9/18/2026, 1:11:55 PM
+// Song: "Diva" by After School
+// Generated: 9/19/2026, 12:43:17 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#778862",
-  "secondary": "#191b21",
-  "accent": "#cbbeb1",
-  "muted": "#aeb7b1"
+  "primary": "#dac1be",
+  "secondary": "#2a1a1e",
+  "accent": "#8f4253",
+  "muted": "#a87255"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#778862');
-    root.style.setProperty('--color-secondary', '#191b21');
-    root.style.setProperty('--color-accent', '#cbbeb1');
-    root.style.setProperty('--color-muted', '#aeb7b1');
+        root.style.setProperty('--color-primary', '#dac1be');
+    root.style.setProperty('--color-secondary', '#2a1a1e');
+    root.style.setProperty('--color-accent', '#8f4253');
+    root.style.setProperty('--color-muted', '#a87255');
 }
 
 // Auto-apply colors when this script loads
