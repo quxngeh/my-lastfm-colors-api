@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "The 7's" by American Football
-// Generated: 9/20/2026, 1:14:52 PM
+// Song: "Back To You" by Tyla
+// Generated: 9/21/2026, 3:22:32 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#545d36",
-  "secondary": "#e7cea7",
-  "accent": "#a4ac91",
-  "muted": "#988c9c"
+  "primary": "#3f533d",
+  "secondary": "#bd8874",
+  "accent": "#96aea1",
+  "muted": "#88a494"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#545d36');
-    root.style.setProperty('--color-secondary', '#e7cea7');
-    root.style.setProperty('--color-accent', '#a4ac91');
-    root.style.setProperty('--color-muted', '#988c9c');
+        root.style.setProperty('--color-primary', '#3f533d');
+    root.style.setProperty('--color-secondary', '#bd8874');
+    root.style.setProperty('--color-accent', '#96aea1');
+    root.style.setProperty('--color-muted', '#88a494');
 }
 
 // Auto-apply colors when this script loads
