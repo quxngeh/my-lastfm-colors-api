@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Back To You" by Tyla
-// Generated: 9/21/2026, 3:22:32 PM
+// Song: "Are You Alive" by tripleS
+// Generated: 9/22/2026, 1:42:31 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#3f533d",
-  "secondary": "#bd8874",
-  "accent": "#96aea1",
-  "muted": "#88a494"
+  "primary": "#323232",
+  "secondary": "#cac9d0",
+  "accent": "#9396a2",
+  "muted": "#878896"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#3f533d');
-    root.style.setProperty('--color-secondary', '#bd8874');
-    root.style.setProperty('--color-accent', '#96aea1');
-    root.style.setProperty('--color-muted', '#88a494');
+        root.style.setProperty('--color-primary', '#323232');
+    root.style.setProperty('--color-secondary', '#cac9d0');
+    root.style.setProperty('--color-accent', '#9396a2');
+    root.style.setProperty('--color-muted', '#878896');
 }
 
 // Auto-apply colors when this script loads
