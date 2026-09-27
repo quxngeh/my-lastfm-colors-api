@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Kream (feat. Tyga)" by Iggy Azalea
-// Generated: 9/26/2026, 1:25:25 PM
+// Song: "Hashtag" by Yves
+// Generated: 9/27/2026, 2:21:11 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#953630",
-  "secondary": "#130e0d",
-  "accent": "#64644c",
-  "muted": "#5c5444"
+  "primary": "#492139",
+  "secondary": "#b56b7e",
+  "accent": "#936d93",
+  "muted": "#8c6c84"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#953630');
-    root.style.setProperty('--color-secondary', '#130e0d');
-    root.style.setProperty('--color-accent', '#64644c');
-    root.style.setProperty('--color-muted', '#5c5444');
+        root.style.setProperty('--color-primary', '#492139');
+    root.style.setProperty('--color-secondary', '#b56b7e');
+    root.style.setProperty('--color-accent', '#936d93');
+    root.style.setProperty('--color-muted', '#8c6c84');
 }
 
 // Auto-apply colors when this script loads
