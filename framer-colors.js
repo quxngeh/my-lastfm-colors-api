@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Roller Coaster" by NMIXX
-// Generated: 9/29/2026, 3:09:40 PM
+// Song: "1-800-F*****F (feat. underscores & umru)" by Kimj
+// Generated: 9/30/2026, 3:25:02 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#233034",
-  "secondary": "#bcc4c5",
-  "accent": "#6a84a9",
-  "muted": "#75a7bb"
+  "primary": "#131f30",
+  "secondary": "#edeaec",
+  "accent": "#cf2c40",
+  "muted": "#a14c5c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#233034');
-    root.style.setProperty('--color-secondary', '#bcc4c5');
-    root.style.setProperty('--color-accent', '#6a84a9');
-    root.style.setProperty('--color-muted', '#75a7bb');
+        root.style.setProperty('--color-primary', '#131f30');
+    root.style.setProperty('--color-secondary', '#edeaec');
+    root.style.setProperty('--color-accent', '#cf2c40');
+    root.style.setProperty('--color-muted', '#a14c5c');
 }
 
 // Auto-apply colors when this script loads
