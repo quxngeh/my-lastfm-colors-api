@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "1-800-F*****F (feat. underscores & umru)" by Kimj
-// Generated: 9/30/2026, 3:25:02 PM
+// Song: "8 (JANGWONYOUNG Solo)" by IVE
+// Generated: 10/1/2026, 3:45:36 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#131f30",
-  "secondary": "#edeaec",
-  "accent": "#cf2c40",
-  "muted": "#a14c5c"
+  "primary": "#061d54",
+  "secondary": "#c0dcf0",
+  "accent": "#748bb2",
+  "muted": "#6b85af"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#131f30');
-    root.style.setProperty('--color-secondary', '#edeaec');
-    root.style.setProperty('--color-accent', '#cf2c40');
-    root.style.setProperty('--color-muted', '#a14c5c');
+        root.style.setProperty('--color-primary', '#061d54');
+    root.style.setProperty('--color-secondary', '#c0dcf0');
+    root.style.setProperty('--color-accent', '#748bb2');
+    root.style.setProperty('--color-muted', '#6b85af');
 }
 
 // Auto-apply colors when this script loads
