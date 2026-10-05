@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "METRONOME" by izna
-// Generated: 10/4/2026, 2:27:43 PM
+// Song: "Mirage (SANA)" by MISAMO
+// Generated: 10/5/2026, 5:29:04 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e091b8",
-  "secondary": "#7a3058",
-  "accent": "#605188",
-  "muted": "#c0494e"
+  "primary": "#c7c5ba",
+  "secondary": "#4c4c41",
+  "accent": "#4d869b",
+  "muted": "#776960"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e091b8');
-    root.style.setProperty('--color-secondary', '#7a3058');
-    root.style.setProperty('--color-accent', '#605188');
-    root.style.setProperty('--color-muted', '#c0494e');
+        root.style.setProperty('--color-primary', '#c7c5ba');
+    root.style.setProperty('--color-secondary', '#4c4c41');
+    root.style.setProperty('--color-accent', '#4d869b');
+    root.style.setProperty('--color-muted', '#776960');
 }
 
 // Auto-apply colors when this script loads
