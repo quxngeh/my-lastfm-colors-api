@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Mirage (SANA)" by MISAMO
-// Generated: 10/5/2026, 5:29:04 PM
+// Song: "REBEL HEART" by IVE
+// Generated: 10/6/2026, 3:29:41 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#c7c5ba",
-  "secondary": "#4c4c41",
-  "accent": "#4d869b",
-  "muted": "#776960"
+  "primary": "#ece4e2",
+  "secondary": "#bf5b77",
+  "accent": "#a48a8e",
+  "muted": "#a48484"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#c7c5ba');
-    root.style.setProperty('--color-secondary', '#4c4c41');
-    root.style.setProperty('--color-accent', '#4d869b');
-    root.style.setProperty('--color-muted', '#776960');
+        root.style.setProperty('--color-primary', '#ece4e2');
+    root.style.setProperty('--color-secondary', '#bf5b77');
+    root.style.setProperty('--color-accent', '#a48a8e');
+    root.style.setProperty('--color-muted', '#a48484');
 }
 
 // Auto-apply colors when this script loads
