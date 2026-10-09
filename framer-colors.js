@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "305tilidie" by Camila Cabello
-// Generated: 10/7/2026, 3:50:38 PM
+// Song: "HOT" by LE SSERAFIM
+// Generated: 10/9/2026, 3:36:46 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#123e67",
-  "secondary": "#a16c4c",
-  "accent": "#b9cfe5",
-  "muted": "#7498c4"
+  "primary": "#d2a37a",
+  "secondary": "#403e46",
+  "accent": "#8a3720",
+  "muted": "#f1e9d1"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#123e67');
-    root.style.setProperty('--color-secondary', '#a16c4c');
-    root.style.setProperty('--color-accent', '#b9cfe5');
-    root.style.setProperty('--color-muted', '#7498c4');
+        root.style.setProperty('--color-primary', '#d2a37a');
+    root.style.setProperty('--color-secondary', '#403e46');
+    root.style.setProperty('--color-accent', '#8a3720');
+    root.style.setProperty('--color-muted', '#f1e9d1');
 }
 
 // Auto-apply colors when this script loads
