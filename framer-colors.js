@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "마지막처럼(AS IF IT'S YOUR LAST)" by BLACKPINK
-// Generated: 10/17/2026, 12:30:42 PM
+// Song: "GALA" by XG
+// Generated: 10/18/2026, 12:49:15 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#dc53a8",
-  "secondary": "#f68ec4",
-  "accent": "#c2345c",
-  "muted": "#fab8f1"
+  "primary": "#efefed",
+  "secondary": "#0a0a0a",
+  "accent": "#747472",
+  "muted": "#7c7c74"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#dc53a8');
-    root.style.setProperty('--color-secondary', '#f68ec4');
-    root.style.setProperty('--color-accent', '#c2345c');
-    root.style.setProperty('--color-muted', '#fab8f1');
+        root.style.setProperty('--color-primary', '#efefed');
+    root.style.setProperty('--color-secondary', '#0a0a0a');
+    root.style.setProperty('--color-accent', '#747472');
+    root.style.setProperty('--color-muted', '#7c7c74');
 }
 
 // Auto-apply colors when this script loads
