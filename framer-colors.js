@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "GALA" by XG
-// Generated: 10/18/2026, 12:49:15 PM
+// Song: "Stars Are Fake" by Marci
+// Generated: 10/19/2026, 3:54:56 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#efefed",
-  "secondary": "#0a0a0a",
-  "accent": "#747472",
-  "muted": "#7c7c74"
+  "primary": "#3d3a3a",
+  "secondary": "#9b876e",
+  "accent": "#838a96",
+  "muted": "#8a8c6e"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#efefed');
-    root.style.setProperty('--color-secondary', '#0a0a0a');
-    root.style.setProperty('--color-accent', '#747472');
-    root.style.setProperty('--color-muted', '#7c7c74');
+        root.style.setProperty('--color-primary', '#3d3a3a');
+    root.style.setProperty('--color-secondary', '#9b876e');
+    root.style.setProperty('--color-accent', '#838a96');
+    root.style.setProperty('--color-muted', '#8a8c6e');
 }
 
 // Auto-apply colors when this script loads
