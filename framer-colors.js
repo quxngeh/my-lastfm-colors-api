@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "HORSESHOE" by Tate McRae
-// Generated: 10/21/2026, 2:10:08 PM
+// Song: "CELEBRATION" by LE SSERAFIM
+// Generated: 10/22/2026, 2:08:36 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#6578a8",
-  "secondary": "#1a1c23",
-  "accent": "#64565f",
-  "muted": "#445474"
+  "primary": "#dcecf9",
+  "secondary": "#96bfeb",
+  "accent": "#a6aaad",
+  "muted": "#b0b5b4"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#6578a8');
-    root.style.setProperty('--color-secondary', '#1a1c23');
-    root.style.setProperty('--color-accent', '#64565f');
-    root.style.setProperty('--color-muted', '#445474');
+        root.style.setProperty('--color-primary', '#dcecf9');
+    root.style.setProperty('--color-secondary', '#96bfeb');
+    root.style.setProperty('--color-accent', '#a6aaad');
+    root.style.setProperty('--color-muted', '#b0b5b4');
 }
 
 // Auto-apply colors when this script loads
