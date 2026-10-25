@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "FAITHFUL SERVANT FRIEND OF CHRIST" by Lingua Ignota
-// Generated: 10/24/2026, 12:57:37 PM
+// Song: "Reality Hurts" by NMIXX
+// Generated: 10/25/2026, 1:23:55 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#b0ad9e",
-  "secondary": "#373228",
-  "accent": "#6a4832",
-  "muted": "#806345"
+  "primary": "#506a92",
+  "secondary": "#bfc4d2",
+  "accent": "#19232d",
+  "muted": "#a0b5cc"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#b0ad9e');
-    root.style.setProperty('--color-secondary', '#373228');
-    root.style.setProperty('--color-accent', '#6a4832');
-    root.style.setProperty('--color-muted', '#806345');
+        root.style.setProperty('--color-primary', '#506a92');
+    root.style.setProperty('--color-secondary', '#bfc4d2');
+    root.style.setProperty('--color-accent', '#19232d');
+    root.style.setProperty('--color-muted', '#a0b5cc');
 }
 
 // Auto-apply colors when this script loads
