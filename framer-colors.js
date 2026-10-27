@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "You Ain't Right" by Janet Jackson
-// Generated: 10/26/2026, 3:31:48 PM
+// Song: "Serenade (KARINA & WINTER)" by aespa
+// Generated: 10/27/2026, 2:57:37 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#cdac9d",
-  "secondary": "#2b2120",
-  "accent": "#6e4137",
-  "muted": "#8c553b"
+  "primary": "#aeadb1",
+  "secondary": "#343436",
+  "accent": "#545454",
+  "muted": "#544c5b"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#cdac9d');
-    root.style.setProperty('--color-secondary', '#2b2120');
-    root.style.setProperty('--color-accent', '#6e4137');
-    root.style.setProperty('--color-muted', '#8c553b');
+        root.style.setProperty('--color-primary', '#aeadb1');
+    root.style.setProperty('--color-secondary', '#343436');
+    root.style.setProperty('--color-accent', '#545454');
+    root.style.setProperty('--color-muted', '#544c5b');
 }
 
 // Auto-apply colors when this script loads
