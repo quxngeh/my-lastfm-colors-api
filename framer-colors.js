@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "I Choose You" by f5ve
-// Generated: 11/1/2026, 3:30:23 PM
+// Song: "8 (JANGWONYOUNG Solo)" by IVE
+// Generated: 11/2/2026, 6:53:24 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#deddda",
-  "secondary": "#3b3b41",
-  "accent": "#ba925f",
-  "muted": "#84614a"
+  "primary": "#061d54",
+  "secondary": "#c0dcf0",
+  "accent": "#748bb2",
+  "muted": "#6b85af"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#deddda');
-    root.style.setProperty('--color-secondary', '#3b3b41');
-    root.style.setProperty('--color-accent', '#ba925f');
-    root.style.setProperty('--color-muted', '#84614a');
+        root.style.setProperty('--color-primary', '#061d54');
+    root.style.setProperty('--color-secondary', '#c0dcf0');
+    root.style.setProperty('--color-accent', '#748bb2');
+    root.style.setProperty('--color-muted', '#6b85af');
 }
 
 // Auto-apply colors when this script loads
