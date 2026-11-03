@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "8 (JANGWONYOUNG Solo)" by IVE
-// Generated: 11/2/2026, 6:53:24 PM
+// Song: "CALL BACK" by Don Toliver
+// Generated: 11/3/2026, 4:39:24 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#061d54",
-  "secondary": "#c0dcf0",
-  "accent": "#748bb2",
-  "muted": "#6b85af"
+  "primary": "#090808",
+  "secondary": "#b3a59a",
+  "accent": "#746c63",
+  "muted": "#6e635c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#061d54');
-    root.style.setProperty('--color-secondary', '#c0dcf0');
-    root.style.setProperty('--color-accent', '#748bb2');
-    root.style.setProperty('--color-muted', '#6b85af');
+        root.style.setProperty('--color-primary', '#090808');
+    root.style.setProperty('--color-secondary', '#b3a59a');
+    root.style.setProperty('--color-accent', '#746c63');
+    root.style.setProperty('--color-muted', '#6e635c');
 }
 
 // Auto-apply colors when this script loads
