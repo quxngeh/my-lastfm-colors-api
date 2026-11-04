@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "CALL BACK" by Don Toliver
-// Generated: 11/3/2026, 4:39:24 PM
+// Song: "Blue Moon" by Hearts2Hearts
+// Generated: 11/4/2026, 4:38:28 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#090808",
-  "secondary": "#b3a59a",
-  "accent": "#746c63",
-  "muted": "#6e635c"
+  "primary": "#4f4846",
+  "secondary": "#e4b8c2",
+  "accent": "#91baef",
+  "muted": "#7986c0"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#090808');
-    root.style.setProperty('--color-secondary', '#b3a59a');
-    root.style.setProperty('--color-accent', '#746c63');
-    root.style.setProperty('--color-muted', '#6e635c');
+        root.style.setProperty('--color-primary', '#4f4846');
+    root.style.setProperty('--color-secondary', '#e4b8c2');
+    root.style.setProperty('--color-accent', '#91baef');
+    root.style.setProperty('--color-muted', '#7986c0');
 }
 
 // Auto-apply colors when this script loads
