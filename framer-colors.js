@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Blue Moon" by Hearts2Hearts
-// Generated: 11/4/2026, 4:38:28 PM
+// Song: "Favourite Daughter" by Lorde
+// Generated: 11/5/2026, 4:53:41 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#4f4846",
-  "secondary": "#e4b8c2",
-  "accent": "#91baef",
-  "muted": "#7986c0"
+  "primary": "#2f92c1",
+  "secondary": "#c8e2f1",
+  "accent": "#074769",
+  "muted": "#86cff1"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#4f4846');
-    root.style.setProperty('--color-secondary', '#e4b8c2');
-    root.style.setProperty('--color-accent', '#91baef');
-    root.style.setProperty('--color-muted', '#7986c0');
+        root.style.setProperty('--color-primary', '#2f92c1');
+    root.style.setProperty('--color-secondary', '#c8e2f1');
+    root.style.setProperty('--color-accent', '#074769');
+    root.style.setProperty('--color-muted', '#86cff1');
 }
 
 // Auto-apply colors when this script loads
