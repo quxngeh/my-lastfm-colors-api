@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Favourite Daughter" by Lorde
-// Generated: 11/5/2026, 4:53:41 PM
+// Song: "UNNATURAL" by WJSN
+// Generated: 11/6/2026, 4:21:47 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#2f92c1",
-  "secondary": "#c8e2f1",
-  "accent": "#074769",
-  "muted": "#86cff1"
+  "primary": "#d25d54",
+  "secondary": "#f1cdc9",
+  "accent": "#e7a3b7",
+  "muted": "#e39e80"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#2f92c1');
-    root.style.setProperty('--color-secondary', '#c8e2f1');
-    root.style.setProperty('--color-accent', '#074769');
-    root.style.setProperty('--color-muted', '#86cff1');
+        root.style.setProperty('--color-primary', '#d25d54');
+    root.style.setProperty('--color-secondary', '#f1cdc9');
+    root.style.setProperty('--color-accent', '#e7a3b7');
+    root.style.setProperty('--color-muted', '#e39e80');
 }
 
 // Auto-apply colors when this script loads
