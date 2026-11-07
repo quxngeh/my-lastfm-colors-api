@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "UNNATURAL" by WJSN
-// Generated: 11/6/2026, 4:21:47 PM
+// Song: "FOCUS" by Hearts2Hearts
+// Generated: 11/7/2026, 3:13:58 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#d25d54",
-  "secondary": "#f1cdc9",
-  "accent": "#e7a3b7",
-  "muted": "#e39e80"
+  "primary": "#4f4846",
+  "secondary": "#e4b8c2",
+  "accent": "#91baef",
+  "muted": "#7986c0"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#d25d54');
-    root.style.setProperty('--color-secondary', '#f1cdc9');
-    root.style.setProperty('--color-accent', '#e7a3b7');
-    root.style.setProperty('--color-muted', '#e39e80');
+        root.style.setProperty('--color-primary', '#4f4846');
+    root.style.setProperty('--color-secondary', '#e4b8c2');
+    root.style.setProperty('--color-accent', '#91baef');
+    root.style.setProperty('--color-muted', '#7986c0');
 }
 
 // Auto-apply colors when this script loads
