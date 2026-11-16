@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "3!4!" by AtHeart
-// Generated: 11/15/2026, 3:55:16 PM
+// Song: "jellyous" by ILLIT
+// Generated: 11/16/2026, 6:58:15 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#137fb3",
-  "secondary": "#d8e5e2",
-  "accent": "#7d6250",
-  "muted": "#ac866b"
+  "primary": "#494a49",
+  "secondary": "#decdbd",
+  "accent": "#a8b1b1",
+  "muted": "#93a0ad"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#137fb3');
-    root.style.setProperty('--color-secondary', '#d8e5e2');
-    root.style.setProperty('--color-accent', '#7d6250');
-    root.style.setProperty('--color-muted', '#ac866b');
+        root.style.setProperty('--color-primary', '#494a49');
+    root.style.setProperty('--color-secondary', '#decdbd');
+    root.style.setProperty('--color-accent', '#a8b1b1');
+    root.style.setProperty('--color-muted', '#93a0ad');
 }
 
 // Auto-apply colors when this script loads
