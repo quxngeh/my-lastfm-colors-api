@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Spring Fever (feat. DINDIN & Jung Hyung Don)" by Yena
-// Generated: 11/20/2026, 5:22:15 PM
+// Song: "Ain't In LA" by ADÉLA
+// Generated: 11/21/2026, 4:27:20 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#d99557",
-  "secondary": "#861f0c",
-  "accent": "#fbe2c2",
-  "muted": "#74543c"
+  "primary": "#e6d5d5",
+  "secondary": "#40141c",
+  "accent": "#9f2a42",
+  "muted": "#b96f69"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#d99557');
-    root.style.setProperty('--color-secondary', '#861f0c');
-    root.style.setProperty('--color-accent', '#fbe2c2');
-    root.style.setProperty('--color-muted', '#74543c');
+        root.style.setProperty('--color-primary', '#e6d5d5');
+    root.style.setProperty('--color-secondary', '#40141c');
+    root.style.setProperty('--color-accent', '#9f2a42');
+    root.style.setProperty('--color-muted', '#b96f69');
 }
 
 // Auto-apply colors when this script loads
