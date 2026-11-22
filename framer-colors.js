@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Ain't In LA" by ADÉLA
-// Generated: 11/21/2026, 4:27:20 PM
+// Song: "LEMONADE (feat. Becky G)" by aespa, Becky G
+// Generated: 11/22/2026, 4:44:06 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#e6d5d5",
-  "secondary": "#40141c",
-  "accent": "#9f2a42",
-  "muted": "#b96f69"
+  "primary": "#b5d017",
+  "secondary": "#e3ef9e",
+  "accent": "#558104",
+  "muted": "#737a0b"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#e6d5d5');
-    root.style.setProperty('--color-secondary', '#40141c');
-    root.style.setProperty('--color-accent', '#9f2a42');
-    root.style.setProperty('--color-muted', '#b96f69');
+        root.style.setProperty('--color-primary', '#b5d017');
+    root.style.setProperty('--color-secondary', '#e3ef9e');
+    root.style.setProperty('--color-accent', '#558104');
+    root.style.setProperty('--color-muted', '#737a0b');
 }
 
 // Auto-apply colors when this script loads
