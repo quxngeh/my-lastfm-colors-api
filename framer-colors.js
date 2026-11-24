@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Pop Off Pop Off" by KiiiKiii
-// Generated: 11/23/2026, 8:38:25 PM
+// Song: "Whiplash" by aespa
+// Generated: 11/24/2026, 7:44:51 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#959e9a",
-  "secondary": "#2e3a39",
-  "accent": "#6b333b",
-  "muted": "#79762b"
+  "primary": "#0f0e0f",
+  "secondary": "#b2b1b0",
+  "accent": "#7a7c84",
+  "muted": "#6c8c4c"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#959e9a');
-    root.style.setProperty('--color-secondary', '#2e3a39');
-    root.style.setProperty('--color-accent', '#6b333b');
-    root.style.setProperty('--color-muted', '#79762b');
+        root.style.setProperty('--color-primary', '#0f0e0f');
+    root.style.setProperty('--color-secondary', '#b2b1b0');
+    root.style.setProperty('--color-accent', '#7a7c84');
+    root.style.setProperty('--color-muted', '#6c8c4c');
 }
 
 // Auto-apply colors when this script loads
