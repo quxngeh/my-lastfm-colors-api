@@ -1,22 +1,22 @@
 // Auto-generated Framer color updater
-// Song: "Whiplash" by aespa
-// Generated: 11/24/2026, 7:44:51 PM
+// Song: "If This Is Love (feat. Yahzarah)" by The Foreign Exchange
+// Generated: 11/25/2026, 6:51:59 PM
 
 // For use in Framer code components or override functions
 export const colors = {
-  "primary": "#0f0e0f",
-  "secondary": "#b2b1b0",
-  "accent": "#7a7c84",
-  "muted": "#6c8c4c"
+  "primary": "#1e1e1e",
+  "secondary": "#cdcdcd",
+  "accent": "#8c8c8c",
+  "muted": "#848484"
 };
 
 // Function to apply colors programmatically
 export function applyColors() {
     const root = document.documentElement;
-        root.style.setProperty('--color-primary', '#0f0e0f');
-    root.style.setProperty('--color-secondary', '#b2b1b0');
-    root.style.setProperty('--color-accent', '#7a7c84');
-    root.style.setProperty('--color-muted', '#6c8c4c');
+        root.style.setProperty('--color-primary', '#1e1e1e');
+    root.style.setProperty('--color-secondary', '#cdcdcd');
+    root.style.setProperty('--color-accent', '#8c8c8c');
+    root.style.setProperty('--color-muted', '#848484');
 }
 
 // Auto-apply colors when this script loads
