@@ -1,14 +1,14 @@
 # 🎨 Your Latest Color Palette
 
-**Song**: "If This Is Love (feat. Yahzarah)" by The Foreign Exchange  
-**Generated**: 11/25/2026, 6:51:59 PM  
-**Album Art**: [View Image](https://lastfm-img.freetls.fastly.net/i/u/300x300/f5b54daa740111df8b87cde3372afe61.jpg)
+**Song**: "연애의 기초" by Fin.K.L  
+**Generated**: 11/26/2026, 6:40:50 PM  
+**Album Art**: [View Image](https://lastfm-img.freetls.fastly.net/i/u/300x300/a7a194e0a0d54828a24e59646d3331d3.png)
 
 ## 🎨 Color Palette
-- **Primary**: `#1e1e1e` (Main brand color, CTAs)
-- **Secondary**: `#cdcdcd` (Dark backgrounds, text)  
-- **Accent**: `#8c8c8c` (Highlights, buttons)
-- **Muted**: `#848484` (Subtle elements, borders)
+- **Primary**: `#070605` (Main brand color, CTAs)
+- **Secondary**: `#d1ac8e` (Dark backgrounds, text)  
+- **Accent**: `#7c7c7c` (Highlights, buttons)
+- **Muted**: `#747474` (Subtle elements, borders)
 
 ## 📋 How to Apply to Framer
 
@@ -21,10 +21,10 @@
 ### Method 2: Use Color Tokens
 Update your Framer color variables with these values:
 ```
-primary: #1e1e1e
-secondary: #cdcdcd
-accent: #8c8c8c
-muted: #848484
+primary: #070605
+secondary: #d1ac8e
+accent: #7c7c7c
+muted: #747474
 ```
 
 ### Method 3: Programmatic (Advanced)
